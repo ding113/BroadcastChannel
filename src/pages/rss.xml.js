@@ -1,5 +1,5 @@
 import rss from '@astrojs/rss'
-
+import sanitizeHtml from 'sanitize-html'
 import { getChannelInfo } from '../lib/telegram'
 
 export const prerender = false
@@ -22,7 +22,18 @@ export async function GET(Astro) {
       title: item.title,
       description: item.description,
       pubDate: new Date(item.datetime),
-      content: item.content,
+      content: sanitizeHtml(item.content, {
+        allowedTags: sanitizeHtml.defaults.allowedTags.concat(['img', 'video', 'audio']),
+        allowedAttributes: {
+          ...sanitizeHtml.defaults.allowedAttributes,
+          video: ['src', 'width', 'height', 'poster'],
+          audio: ['src', 'controls'],
+          img: ['src', 'srcset', 'alt', 'title', 'width', 'height', 'loading', 'class'],
+        },
+        exclusiveFilter(frame) {
+          return frame.tag === 'img' && frame.attribs?.class?.includes('modal-img')
+        },
+      }),
     })),
   })
 }
