@@ -9,9 +9,9 @@
 ## ✨ 特性
 
 - **将 Telegram Channel 转为微博客**
-- **SEO 友好**
+- **SEO 友好** `/sitemap.xml`
 - **浏览器端 0 JS**
-- **提供 RSS 和 RSS JSON**
+- **提供 RSS 和 RSS JSON** `/rss.xml` `/rss.json`
 
 ## 🪧 演示
 
@@ -23,6 +23,7 @@
 - [APPDO 数字生活指南](https://mini.appdo.xyz/)
 - [85.60×53.98卡粉订阅/提醒](https://tg.docofcard.com/)
 - [新闻在花频道](https://tg.istore.app/)
+- [ALL About RSS](https://blog.rss.tips/)
 - [Charles Chin's Whisper](https://memo.eallion.com/)
 - [PlayStation 新闻转发](https://playstationnews.pages.dev)
 - [Yu's Life](https://daily.pseudoyu.com/)
@@ -32,6 +33,13 @@
 - [Steve Studio](https://tgc.surgeee.me/)
 - [LiFePO4:沙雕吐槽](https://lifepo4.top)
 - [Hotspot Hourly](https://hourly.top/)
+- [大河马中文财经新闻分享](https://a.xiaomi318.com/)
+- [\_My. 技巧 🎩 集锦](https://channel.mykeyvans.com)
+- [小报童专栏精选](https://xiaobaotong.genaiprism.site/)
+- [Fake news](https://fake-news.csgo.ovh/)
+- [miyi23's Geekhub资源分享](https://gh.miyi23.top/)
+- [Magazine｜期刊杂志｜财新周刊](https://themagazine.top)
+- [Remote Jobs & Cooperation](https://share-remote-jobs.vercel.app/)
 
 ### 平台
 
@@ -61,7 +69,7 @@
 ## ⚒️ 配置
 
 ```env
-## Telegram 频道名称，必须配置
+## Telegram 频道用户名，必须配置。 t.me/ 后面那串字符
 CHANNEL=miantiao_me
 
 ## 语言和时区设置，语言选项见[dayjs](https://github.com/iamkun/dayjs/tree/dev/src/locale)
@@ -94,6 +102,15 @@ SENTRY_PROJECT=SENTRY_PROJECT
 HOST=telegram.dog
 STATIC_PROXY=
 ```
+
+## 🙋🏻 常问问题
+
+1. 为什么部署后内容为空？
+   - 检查频道是否是公开的，必须是公开的
+   - 频道用户名是字符串，不是数字
+   - 关闭频道 Restricting Saving Content 设置项
+   - 修改完环境变量后需要重新部署
+   - Telegram 会屏蔽一些敏感频道的公开展示， 可以通过访问 `https://t.me/s/频道用户名` 确认
 
 ## ☕ 赞助
 
