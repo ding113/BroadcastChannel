@@ -1,0 +1,2338 @@
+消息ID: 407
+日期: 2024-08-14T16:13:13+00:00
+文本: #Update#ClaudeClaude API 现已支持 Prompt Caching 功能：- 用于缓存频繁使用的上下文- 降低成本、降低延迟- 支持 Claude 3.5 Sonnet 和 Claude 3 Haiku 的 beta 版已推出，支持 Claude 3 Opus 的版本很快推出- 单个 Cache 的留存时间为 5 分钟，5 分钟内每使用一次重新计算时间定价（写入/读取，每百万 Token）：- Claude 3.5 Sonnet：3.75 / 0.3 USD- Claude 3 Opus：18.75 / 1.5 USD- Claude 3 Haiku：0.3 / 0.03 USD
+***
+
+***
+消息ID: 406
+日期: 2024-08-14T00:06:23+00:00
+文本: #Update#OpenAIOpenAI 现在允许开发者使用模型名称chatgpt-4o-latest调用 ChatGPT 当前使用的 GPT-4o 模型，但不推荐使用此模型。
+***
+
+***
+消息ID: 405
+日期: 2024-08-13T17:53:38+00:00
+文本: #Announcement#GeminiGemini Live 语音对话功能现已发布：- 可随时打断- 可实时解读视频- 10+ 种语音可选- 今日开始，拥有 Gemini Advanced 订阅的 Android 用户将开始灰度测试该功能，目前仅支持英语- 未来几周内推出 iOS 版
+***
+
+***
+消息ID: 404
+日期: 2024-08-13T17:08:57+00:00
+文本: #Announcement#OpenAIOpenAI 刚刚发布了 LLM 基准测试工具 SWE-bench，用于评估 AI 模型在真实软件工程任务中的表现。详细信息：https://openai.com/index/introducing-swe-bench-verified/
+***
+
+***
+消息ID: 403
+日期: 2024-08-07T04:09:47+00:00
+文本: #Update#OpenAIgpt-4o-2024-08-06模型现已推出，可通过 API 实现可靠的结构化输出，实现方法参考官方文档：https://openai.com/index/introducing-structured-outputs-in-the-api/与此同时，模型的价格也进一步下降：- 输入：2.5 USD / 1M tokens- 输出：10 USD / 1M tokens
+***
+
+***
+消息ID: 402
+日期: 2024-08-06T02:10:24+00:00
+文本: #DevDay#OpenAIOpenAI 将在今年秋季举行 DevDay 活动，包括以下三个地点：- San Francisco：10 月 1 日- London：10 月 30 日- Singapore：11 月 21 日
+***
+
+***
+消息ID: 401
+日期: 2024-08-01T08:01:27+00:00
+文本: #Update#Claudeclaude.ai现已支持批量删除会话。
+***
+
+***
+消息ID: 400
+日期: 2024-07-31T11:03:08+00:00
+文本: #Update#OpenAIOpenAI 最近发布了支持输出最高 64K tokens 的 GPT-4o 模型，API 定价如下：- 输入：6 USD / 1M tokens- 输出：18 USD / 1M tokens该模型目前在 Alpha 阶段。
+***
+
+***
+消息ID: 399
+日期: 2024-07-30T05:25:17+00:00
+文本: #Announcement#MetaMeta 刚刚发布了 AI Studio，允许用户自定义 prompt 以定制个性化的 AI 助手。目前可用的途径：-ai.meta.com/ai-studio- Instagram
+***
+
+***
+消息ID: 398
+日期: 2024-07-26T15:35:36+00:00
+文本: #Update#ChatGPT下周开始，ChatGPT 的 Advanced Voice Mode Alpha 版本开始推送给 Plus 订阅用户。
+***
+
+***
+消息ID: 397
+日期: 2024-07-25T22:40:36+00:00
+文本: #Announcement#OpenAI#SearchGPTSearchGPT 原型现已发布：- 支持获取实时的互联网信息并汇总- 搜索结果不受网站的反 AI 策略影响- 初期只开放给少部分用户，需要加入 Waitlist
+***
+
+***
+消息ID: 396
+日期: 2024-07-25T15:08:33+00:00
+文本: #Update#GeminiGemini 1.5 Flash 现已在 Gemini 网页端可用。
+***
+
+***
+消息ID: 395
+日期: 2024-07-23T15:51:01+00:00
+文本: #Update#Meta#Llama部分用户已经可以在meta.ai使用 Llama 3.1-405B 模型:- 多模态、多语言- 宣称在多项基准测试里超过了 GPT-4o 和 Claude 3.5 Sonnet- Token Window：128K
+***
+
+***
+消息ID: 394
+日期: 2024-07-18T17:18:11+00:00
+文本: #Update#OpenAIGPT-4o mini 现已发布：- 轻量、高速、精悍- 目前支持文本和图片，未来支持视频和音频- Token Window：128K- Enterprise 用户一周内可用，其他用户现在可用- API 定价（每百万 Token）：输入/输出：0.15 USD/0.60 USD
+***
+
+***
+消息ID: 393
+日期: 2024-07-16T15:46:15+00:00
+文本: #Update#ClaudeClaude Android App 现已推出。
+***
+
+***
+消息ID: 392
+日期: 2024-07-09T18:40:46+00:00
+文本: #Update#ClaudeClaude 开发者控制台现已提供 prompt 优化工具：- 可使用 Claude 3.5 Sonnet 生成 prompt- 可批量比较多个不同的 prompt 结果
+***
+
+***
+消息ID: 391
+日期: 2024-06-27T14:40:56+00:00
+文本: #Partnership#OpenAI#TIMEOpenAI 宣布与 TIME 合作，获得其过去 101 年来的存档内容，并向其提供技术支持。
+***
+
+***
+消息ID: 390
+日期: 2024-06-26T03:12:29+00:00
+文本: #Update#ChatGPTChatGPT Advanced Voice Mode 原计划于 6 月底开始小范围测试，但现在需要推迟一个月。OpenAI 计划于今年秋天（具体时间未提供）向所有 Plus 订阅用户提供 ChatGPT Advanced Voice Mode。
+***
+
+***
+消息ID: 389
+日期: 2024-06-25T17:22:09+00:00
+文本: #Update#ClaudeClaude 单个文件的大小限制已经放宽到 30 mb。
+***
+
+***
+消息ID: 388
+日期: 2024-06-25T15:00:54+00:00
+文本: #Update#ClaudeClaude Projects 现已面向所有 Pro 和 Team 用户推出：- Team 内的用户可以使用同一项目分享、协作- 每个项目有自己的 Custom Instructions- 单一项目的 Context Window：200K Tokens- 其他特性同 Pro
+***
+
+***
+消息ID: 387
+日期: 2024-06-20T14:22:01+00:00
+文本: #Update#Claudeclaude.ai开始测试 Artifacts 功能：- 实时显示 Claude 被要求生成的内容，如 svg 图像、HTML 页面- 团队用户稍后可用
+***
+
+***
+消息ID: 386
+日期: 2024-06-20T14:04:12+00:00
+文本: #Update#ClaudeClaude 3.5 Sonnet 现已在网页端和 API 可用：- 宣称能力强于 Claude 3 Opus，可以免费使用- 宣称最强视觉能力- Context Window: 200K Tokens- API 价格：输入/输出（每百万 token）- 3/15 USD
+***
+
+***
+消息ID: 385
+日期: 2024-06-12T11:15:30+00:00
+文本: #Announcement#OpenAI#Oracle#MicrosoftOpenAI、Oracle、Microsoft 宣布合作，Oracle 将为 OpenAI 的算力扩容提供支持。具体而言，Oracle 提供基础设施，用于推理和其他需求。OpenAI 与 Microsoft 原有的合作关系保持不变。
+***
+
+***
+消息ID: 384
+日期: 2024-06-10T18:46:39+00:00
+文本: #Announcement#Apple#ChatGPTApple Intelligence 将整合 ChatGPT，并无需订阅即可使用 GPT-4o。
+***
+
+***
+消息ID: 383
+日期: 2024-06-10T08:16:04+00:00
+文本: #Tip#ChatGPT如果你使用 ChatGPT 网页版时，已经绑定了 Google Drive 或 OneDrive 却始终无法选择文件，可能是因为去广告插件（如 AdGuard）拦截了，暂时禁用或者把chatgpt.com加入白名单即可解决。
+***
+
+***
+消息ID: 382
+日期: 2024-06-04T16:36:55+00:00
+文本: #Tip#Outage本频道并不打算动态跟踪主流 AI 服务的可用性，推荐大家前往各家的服务状态页面查看，有需要的也可以订阅官方的邮件通知。OpenAIhttps://status.openai.com/Anthropichttps://status.anthropic.com/Notionhttps://status.notion.so/
+***
+
+***
+消息ID: 381
+日期: 2024-05-29T23:44:59+00:00
+文本: #Update#ChatGPT现在，所有 ChatGPT 免费用户都可以使用浏览、视觉、数据分析、文件上传、GPTs 功能了。
+***
+
+***
+消息ID: 380
+日期: 2024-05-23T09:20:53+00:00
+文本: #Update#ChatGPTChatGPT macOS App v1.2024.138 取消了震动功能，如果你喜欢流式输出时的触控板震动，可以暂时选择不升级到这个版本。
+***
+
+***
+消息ID: 379
+日期: 2024-05-21T22:21:06+00:00
+文本: #Update#GeminiGoogle Gemini 现已支持 Data Analysis，需要 Gemini Advanced 订阅。
+***
+
+***
+消息ID: 378
+日期: 2024-05-18T16:22:37+00:00
+文本: #Tip#ChatGPT无需进入灰度名单、无需修改请求也可以启用 ChatGPT macOS App 的方法：- 打开 ChatGPT macOS App 并登陆- 在界面变为白色窗口带有加载动画时迅速按下 command + Q- 重新打开 ChatGPT macOS AppChatGPT macOS App 下载链接：https://persistent.oaistatic.com/sidekick/public/ChatGPT_Desktop_public_latest.dmg该方法来源未知，但测试在 1.2024.134 版本下可用。
+***
+
+***
+消息ID: 377
+日期: 2024-05-17T15:40:04+00:00
+文本: #Tip#ChatGPT考虑到 ChatGPT 会在同一时间灰度更新多项功能，我们会集中在讨论组内的https://t.me/ai_copilot_group/13587/13590动态更新当前的灰度功能列表，减少频繁推送频道信息带来的困扰。
+***
+
+***
+消息ID: 376
+日期: 2024-05-17T11:36:25+00:00
+文本: #Tip#ChatGPTChatGPT iOS App 实际上是支持停驻在灵动岛进行语音对话的。进入 Voice 界面后回到 iOS 桌面即可持续对话。
+***
+
+***
+消息ID: 375
+日期: 2024-05-17T01:22:40+00:00
+文本: #Update#ChatGPTChatGPT 开始灰度更新数据分析功能：- 支持直接通过 Google Drive 和 OneDrive 上传文件- 支持直接和表格和图表交互- 支持下载图表点击加入：OpenAI 讨论组（有入群验证的，记得做）
+***
+
+***
+消息ID: 374
+日期: 2024-05-16T17:01:04+00:00
+文本: #Update#ChatGPTChatGPT iOS App v1.2024.133 提示新版 Voice 即将来到（仅限订阅用户）。
+图片URL: https://cdn5.cdn-telegram.org/file/iAg1pT3N-hlD8-e5R6_R7SfVZbHrrNoNfNM2EbXqkbDwzFSsz6266Ga4qXmPje7wIEc4Jkd5ENkr_vPSU9gc0KOofiuHcYofLJJW26YulSY5GV-frAHRGRbGxe93YUHuKfuGsMN804RLeYwuJ0L_v6cJ83EkUMGNPTWUE8py2VJQYiLbB9K7jxeJjv_bqQQfMrOuOFGvokAi3GAGSTZjw-ssRrrHNtKuYJUllTGIizffuXqG5jFnbTt1Zt8c1vE1-fzL0oqYNVJOyCFb5mmKxRnLC0Y1ze1fSwphc_vnVYg4BHC9xIoKrlPQCEA8P9MgiiV6miB5Ozm3rnuar2AZzQ.jpg
+***
+
+***
+消息ID: 373
+日期: 2024-05-14T18:29:42+00:00
+文本: #Update#Google#GeminiGoogle I/O 2024 刚刚发布了：- 今日可用- Gemini 1.5 Flash，1M context window- PaliGemma，开源视觉模型- 即将可用- Imagen 3，文生图模型- Gemma 2，开源 LLM- Gemini 1.5 Pro，2M context window
+***
+
+***
+消息ID: 372
+日期: 2024-05-14T08:52:11+00:00
+文本: #Tip#OpenAI#API由于 GPT-4o 的 tokenization 方式变化，同样长度的文本占用的 token 数量会小于 GPT-4 Turbo，这意味着使用 GPT-4o 的 API 成本在定价砍半的基础上进一步降低了。详情可参考官方文档：https://openai.com/index/hello-gpt-4o/
+***
+
+***
+消息ID: 371
+日期: 2024-05-13T18:14:02+00:00
+文本: #Update#ChatGPTGPT-4o 的灰度已经开始了。速度限制（Plus 用户）：- GPT-4o：每 3 小时最多可发送 80 条信息- GPT-4：每 3 小时最多可发送 40 条信息高峰时段的配额可能会减少。
+图片URL: https://cdn5.cdn-telegram.org/file/toj1CivROruDKXUeZUXNdOSkcSFe4NMGX_ZCddLnNQJ5edOxEAyGeNmAhCxeL_9pITdVYfmRTYUtFbeiQF1phGKaYzifPYENTbuR7LW1VJHsBSr5ymB0pRsD2XDxweyrWcEUKFt6muSDqRcIAEal4enOGx5f9uEL2oay17tFxVkkJc2PcnEwB9B8tTnrlfxApIa6kG8AzZbeXZR0LFomWiVWTIhemSRizImWzlkpD8yNrPcdo5k1iGrb3K8-rqz4whDBiI3wtzorz0MuwEmmJECLaRYsWuPuREUQ7Z8l4XwWkrum0Xb6My0FcmEr-H2Xg0ZvmqS59E5WR_fr6mEkqA.jpg
+***
+
+***
+消息ID: 370
+日期: 2024-05-13T17:43:22+00:00
+文本: #Update#API#OpenAIGPT-4o API 现已可用。定价（GPT-4 Turbo 的一半）：- 输入： 5 USD/1M Tokens- 输出： 15 USD/1M Tokens
+***
+
+***
+消息ID: 369
+日期: 2024-05-13T17:02:33+00:00
+文本: #OpenAISpring UpdateOpenAI 刚刚发布了：- 桌面 App（macOS 最先推出，Windows 会在今年晚些时候）- 新网页 UI- GPT-4o 模型- 多模态：文本、视频、音频- 端到端实现，可实时语音、视频对话- 速度更快（2x）- 免费用户可用（且为默认模型），付费用户有更多配额（高达 5 倍）- API 将有 5 倍于 GPT-4 Turbo 的 Rate LimitOpenAI 将在接下来几周灰度推送 GPT-4o 模型。
+***
+
+***
+消息ID: 368
+日期: 2024-05-11T05:38:58+00:00
+文本: #Update#OpenAIOpenAI 官宣将在北京时间 5 月 14 日凌晨 1 点举行关于 ChatGPT 和 GPT-4 的线上发布会。Sam Altman 补充：- 不是 GPT-5- 不是搜索引擎- 'feels like magic to me'
+***
+
+***
+消息ID: 367
+日期: 2024-05-09T18:40:01+00:00
+文本: #Update#GoogleGoogle 刚刚发布了专为翻译场景训练的大语言模型，可通过 Translation API 调用。
+***
+
+***
+消息ID: 366
+日期: 2024-05-06T16:13:19+00:00
+文本: #Announcement#OpenAIStack Overflow 宣布与 OpenAI 合作：- Stack Overflow 为 OpenAI 提供数据训练模型和 API- OpenAI 提供模型授权给 Stack Overflow 开发 OverflowAI
+***
+
+***
+消息ID: 365
+日期: 2024-05-05T01:45:52+00:00
+文本: #Update#ChatGPTchat.openai.com现在会自动重定向到 chatgpt.com。
+***
+
+***
+消息ID: 364
+日期: 2024-05-02T04:44:54+00:00
+文本: #Channel在频道创建 1 周年（大约）以后，我们迎来了 4200+ 的订阅用户，感谢大家。另外有必要说明一下，频道出现的广告是 Telegram 平台强制推送的，我们（在可预见的未来）并没有引入广告的计划。Telegram 强制广告会给频道一定的分成，目前本频道收到的分成约为 0.5 CNY。我们并无意向为了提高广告曝光来通过推送低价值信息提高推送频率，请大家放心。
+***
+
+***
+消息ID: 363
+日期: 2024-05-02T04:26:50+00:00
+文本: #Update#OpenAIOpenAI开始采用全新的网站风格，并且允许你直接在首页向 ChatGPT 提问。
+图片URL: https://cdn5.cdn-telegram.org/file/bDqdgNuHMKpqFEATJ98cAbYWPIt7ZOaIduiA5ua96oK2lG1M3305yfl-c20QQTcHKMH3U8fVt28EKKBTn-tA_tEyVHYHlfgQIxbXAtmQ1kIzrkYCGv-yLCCf_fgBXdFrDxWihGBI2oAR9Rhe0r0m_Vlx0E5JxEBCCJYDXBcHV0X67uakaW9tYqrjCvhlDuXcp9ZDrnolCpzqn80gt4VeKRJKqsYtKUKkxheAshetxgnSs6z06SmfC5TiAN6jtGDjOiS8Njs7yVIf77xR6oww-7ut3BW9UOzWEA_3NqfmPmpATL30IbJpVSoPmdbLc6o_1-Ms6CH3JxgjyPq9uyOyzg.jpg
+***
+
+***
+消息ID: 362
+日期: 2024-05-01T15:08:38+00:00
+文本: #Update#ClaudeClaude Team Plan 现已推出：- 30 USD 每人每月，5 人起订- 更高的 Opus 配额（未具体提供数值）- Team 管理面板- 其余功能同 Pro
+***
+
+***
+消息ID: 361
+日期: 2024-05-01T15:02:59+00:00
+文本: #Update#ClaudeClaude iOS App 现已推出。美区：https://apps.apple.com/us/app/claude/id6473753684
+***
+
+***
+消息ID: 360
+日期: 2024-04-29T12:23:39+00:00
+文本: #Announcement#OpenAI英国《金融时报》（FT）宣布与 OpenAI 建立合作关系并提供授权，为 ChatGPT 提供内容，并合作开发面向 FT 读者的新 AI 产品和功能。
+***
+
+***
+消息ID: 359
+日期: 2024-04-28T11:30:03+00:00
+文本: #Update#ChatGPT现在，你可以在 ChatGPT 里手动拒绝使用你的会话记录训练模型，并且无需放弃历史记录功能。入口：Settings - Data controls - Improve the model for everyone点击加入：OpenAI 讨论组（有入群验证的，记得做）
+***
+
+***
+消息ID: 358
+日期: 2024-04-24T03:27:36+00:00
+文本: #Update#OpenAI#APIOpenAI 为 API 用户提供了一系列更新管理和安全：- Private Link：实现 Azure 和 OpenAI 直连，减少公网暴露- 多重身份验证（MFA）- Projects 功能：允许按照不同项目管理 API、模型、速率等内容Assistants API：- 改进了 “file_search” 的检索，每个助手最多可以提取 10,000 个文件- 支持流式响应（Streaming）- 新的 “vector_store” 对象可以将文件添加到 vector 存储中，并自动解析、分块和嵌入，为文件搜索做准备，vector store 可以跨 assistant 和 thread 使用- 可控制每次运行的最大 token 数- 新的 “tool_choice” 参数用于在特定运行中选择特定工具- 支持微调的 GPT-3.5 Turbo 模型成本控制：- 承诺吞吐量实现后有使用折扣，最高 50%- Batch API 可用于运行非紧急请求，24 小时内响应，折扣 50%点击加入：OpenAI 讨论组（有入群验证的，记得做）
+***
+
+***
+消息ID: 357
+日期: 2024-04-19T03:36:27+00:00
+文本: #Update #Claude   Claude 免费版现在默认模型为 Claude 3 Haiku，目前也无法更改为 Sonnet。  点击加入：Claude 讨论组（有入群验证的，记得做）
+***
+
+***
+消息ID: 356
+日期: 2024-04-18T18:26:18+00:00
+文本: #Tip #Claude   部分用户的 Claude 官方 API 拥有免费计划，该计划包含：  - 所有模型（含 Claude 3 Opus）的使用权限 - 250 万 Token 额度（UTC 时间的半夜重置） - 2 个并发的请求
+***
+
+***
+消息ID: 355
+日期: 2024-04-15T06:32:14+00:00
+文本: #Update#OpenAI为日语优化的 GPT-4 模型现在可以被日本当地企业申请使用。
+***
+
+***
+消息ID: 354
+日期: 2024-04-15T06:28:32+00:00
+文本: #Announcement#OpenAIOpenAI 首个亚洲办公室现已在日本开设。
+***
+
+***
+消息ID: 353
+日期: 2024-04-12T04:28:29+00:00
+文本: #Update #OpenAI #API   gpt-4-turbo-2024-04-09 模型现已出现在官网。  点击加入：OpenAI 讨论组（有入群验证的，记得做）
+图片URL: https://cdn5.cdn-telegram.org/file/HVSG4CAy1uJNFfGqHhFOI8JV4O5j7kiLaTIEJHYGpWDkswpudkI-h1-Ypf8UD8P2Q9VhRmkzsBLtx5zY2QxQvXuhczcyLmQ-gqblL6S24TWrx8jXEGf4VoGTEsHJkrIsnRUO-JxOU1eE1-YRyA31RvZ5ZDTT2PxuLkL8CkjWRO23xcusTsxTO7_UDG3nksbIA9Q1FE40x1zuV5eIZ4-1NeOMworCOuvjIScww9wReUHnWvM7jVC0OOLWQLX7PGI1HWacUTWhm9s-4EAT-hnnAfTyZq6SzCU_J_TtvwoorNH0xxPjat6D5jczqXPEfAjhiP_XEXWLac5jGKY0Q_UDfw.jpg
+***
+
+***
+消息ID: 352
+日期: 2024-04-10T08:43:46+00:00
+文本: #Update#ClaudeClaude 免费版现在默认模型为 Claude 3 Haiku，目前也无法更改为 Sonnet。点击加入：Claude 讨论组（有入群验证的，记得做）
+***
+
+***
+消息ID: 351
+日期: 2024-04-09T18:15:25+00:00
+文本: #Update#OpenAI#APIgpt-4-turbo-2024-04-09模型现已出现在官网。点击加入：OpenAI 讨论组（有入群验证的，记得做）
+***
+
+***
+消息ID: 349
+日期: 2024-04-06T11:29:36+00:00
+文本: #Update#ChatGPTChatGPT 即将提供 Dynamic 模式，智能选择 GPT-4 或者 GPT-3.5 回答问题，以平衡回答质量和 GPT-4 配额。参考文档：https://help.openai.com/en/articles/9155758-what-is-the-chatgpt-plus-model-selector点击加入：OpenAI 讨论组（有入群验证的，记得做）
+图片URL: https://cdn5.cdn-telegram.org/file/MN08IvewQAk-UQ5p1uFKCWbVoa80LGTVjuZEgzZi9353eddY_RCY6lpnBLjDM0Of8Kp-Tc96BaVsQuGpFpVSaTobFySM7D9WVR3_xA0Kpnej-7hN2wZ_oQqXZaEFzNwymVOZE7ZWmj8B36EaakrCZhmYHuvqHcpEAWfx2WAv_j45kFp50DqklcyLm04CY8I90wEPYsIsZhTNXmqGN57BZMpeYMZnV1Pcs-rMj-CPeP3f_EgyoNnwxUmiBgR3_VXDEFqqbNVcjcIlzp8KJUEMB2IOTRjyCZlsARBt2cB4eDBjj9CRYwKmPV4YC2hOdrjdz_8PdIbz6w90ZHHbcaCbUA.jpg
+***
+
+***
+消息ID: 348
+日期: 2024-04-05T03:12:55+00:00
+文本: #Update#Claude#APIClaude 3 系列 API 现已支持 Function Calling。相关文档：https://docs.anthropic.com/claude/docs/tool-use点击加入：Claude 讨论组（有入群验证的，记得做）
+***
+
+***
+消息ID: 347
+日期: 2024-04-03T11:33:22+00:00
+文本: #Update#ChatGPTChatGPT 现已支持在生成图像后选中局部区域修改。点击加入：OpenAI 讨论组（有入群验证的，记得做）
+图片URL: https://cdn5.cdn-telegram.org/file/biXYXg3FthXSRUs_GY6nNtlFD6Jq_u6F5evFahgoglQUNMkngZ7KaXM_AAlZoNamnX3tI0oIyPEkY3xHA5cxMvIYUHq9L0D4iDhYZqEtRziEZxl45yimUVB4fbkKXX2uMSaU31BCO0yK0zOMNKa5eG1D36C8_5Bs_Ghm-WI0N3EYJYzsf5vB5dPkyygZp5iIRoxfHwHbS5QeqnoesVnlVnzfBg-ZNT2fecY-VfdL02WA4MiarkYsBT6GfUgYreInQfUuvrtM1lv6t_U96wqvLOlVsq7PUbipMInQDWFDXquLQIWrFCrXQAmLoUDKFlBqcRZ_NMHK7aIHVAqo7fp7yg.jpg
+***
+
+***
+消息ID: 346
+日期: 2024-04-01T17:23:48+00:00
+文本: #Update#ChatGPT现在，无需注册也可以使用 ChatGPT 3.5 了。并且，未注册用户使用 ChatGPT 3.5 可以选择不贡献记录改进模型。点击加入：OpenAI 讨论组（有入群验证的，记得做）
+***
+
+***
+消息ID: 345
+日期: 2024-03-31T07:31:15+00:00
+文本: #Update#ChatGPTChatGPT Plus 订阅用户的 GPT-4 配额从原有的每 3 小时 40 条变为了不定限制，这意味着 OpenAI 可能根据资源负载弹性限制配额（类似于 Claude 现在的模式）。点击加入：OpenAI 讨论组（有入群验证的，记得做）
+***
+
+***
+消息ID: 344
+日期: 2024-03-29T17:31:16+00:00
+文本: #OpenAIOpenAI 刚刚公布了 Voice Engine，一种利用文本和 15 秒音频样本就可以生成接近说话者音色的自然语音的生成模型。这一模型早在 2022 年就已开发，目前驱动了 OpenAI 的 TTS、ChatGPT Voice 以及 Read Aloud。点击加入：OpenAI 讨论组（有入群验证的，记得做）
+***
+
+***
+消息ID: 343
+日期: 2024-03-22T07:49:07+00:00
+文本: #API #Update #Gemini   Google 开始逐渐向已申请的用户开放 Gemini 1.5 Pro 的 API 权限。
+***
+
+***
+消息ID: 342
+日期: 2024-03-19T11:12:14+00:00
+文本: #Tip #OpenAI #API   OpenAI 的官方 API 在预付费（充值余额）模式下，每次充值的余额有效期为 1 年（可以理解为一种礼品卡），如果你充值的余额 1 年后仍未使用完，它们会直接过期，且不会退款到你的银行卡。  你可以在后台查看每次充值的余额的使用情况：https://platform.openai.com/usage  OpenAI 讨论组：https://t.me/ai_copilot_group/5031
+***
+
+***
+消息ID: 341
+日期: 2024-03-16T10:32:43+00:00
+文本: #Tip#OpenAI#APIOpenAI 的官方 API 在预付费（充值余额）模式下，每次充值的余额有效期为 1 年（可以理解为一种礼品卡），如果你充值的余额 1 年后仍未使用完，它们会直接过期，且不会退款到你的银行卡。你可以在后台查看每次充值的余额的使用情况：https://platform.openai.com/usageOpenAI 讨论组：https://t.me/ai_copilot_group/5031
+***
+
+***
+消息ID: 340
+日期: 2024-03-15T18:50:10+00:00
+文本: #Update#Copilot更新到最新版 Microsoft Copilot App 以后，用户可以选择免费试用一个月 Copilot Pro。Copilot 讨论组：https://t.me/ai_copilot_group/5974
+***
+
+***
+消息ID: 339
+日期: 2024-03-14T02:54:36+00:00
+文本: #Update#ClaudeClaude 3 Haiku 现已在官方 API 和claude.ai可用。Claude 讨论组：https://t.me/ai_copilot_group/5030
+***
+
+***
+消息ID: 338
+日期: 2024-03-13T17:57:34+00:00
+文本: #Partnership#OpenAILe Monde 和 Prisa Media 宣布与 OpenAI 合作，将为 ChatGPT 提供法语和西班牙语新闻。OpenAI 讨论组：https://t.me/ai_copilot_group/5031
+***
+
+***
+消息ID: 337
+日期: 2024-03-11T07:35:41+00:00
+文本: #Group#Channel频道主发现，在频道订阅用户越来越多的情况下，频道主自己的视野和信息渠道已经开始成为频道发展的瓶颈。我们希望订阅用户能够更加高效地获得信息（哪怕频道会尽可能在第一时间更新），哪怕是（我们倾向于不广播的）小道消息。所以欢迎加入我们的讨论组：https://t.me/ai_copilot_group我们希望大家不要在群内发布求购信息、广告，这可能会影响到他人的交流体验，当然我们也已经使用了反广告机器人来帮忙，希望给大家最干净的环境。
+***
+
+***
+消息ID: 336
+日期: 2024-03-07T18:33:36+00:00
+文本: #Update#ChatGPTChatGPT 现已开始灰度推送 MFA（多因素身份验证）功能。
+***
+
+***
+消息ID: 335
+日期: 2024-03-05T07:54:00+00:00
+文本: #Tip#Claude部分用户的 Claude 官方 API 拥有免费计划，该计划包含：- 所有模型（含 Claude 3 Opus）的使用权限- 250 万 Token 额度（UTC 时间的半夜重置）- 2 个并发的请求
+***
+
+***
+消息ID: 333
+日期: 2024-03-04T15:09:23+00:00
+文本: #Tip#ClaudeClaude 3 访问方式：- 官网（Opus 需要 Pro 订阅才能使用）：https://claude.ai/chats- Claude 官方 API- Google Cloud Vertex AI
+***
+
+***
+消息ID: 332
+日期: 2024-03-04T15:03:06+00:00
+文本: #Update#ClaudeClaude 3 模型家族现已发布：- 三个版本能力大小：Haiku < Sonnet < Opus- Claude 3 Opus 宣称能力全面超越了 GPT-4- 多模态能力：支持输入图片- 三个模型均默认支持 200K 的 Context Window，可定制到 1 百万 Context Window- API 价格（每百万 Token 的输入/输出）- Opus：15 / 75 USD- Sonnet：3 / 15 USD- Haiku：0.25 / 1.25 USD
+***
+
+***
+消息ID: 331
+日期: 2024-03-03T17:03:36+00:00
+文本: #Update#ChatGPTChatGPT 网页版开始灰度推送 Speech 功能。
+***
+
+***
+消息ID: 330
+日期: 2024-02-26T16:02:42+00:00
+文本: #MistralMistral Large 调用途径：- 通过https://chat.mistral.ai/访问- 通过官方 API 调用- 输入：0.008 USD/1K Token- 输出：0.024 USD/1K Token- 通过 Azure 部署- 支持地区：france central、east us 2
+***
+
+***
+消息ID: 329
+日期: 2024-02-26T15:47:28+00:00
+文本: #MistralMistral Large 现已发布：- 宣称能力介于 GPT-4 和 Claude 2 之间- 32K Token 上下文窗口- 多语言支持- 支持函数调用- 在 Azure AI Studio、Azure Machine Learning 上可用
+***
+
+***
+消息ID: 328
+日期: 2024-02-24T13:07:19+00:00
+文本: #Tip#GeminiGemini 1.5 Pro 默认提供的上下文长度为 1048576（约 1M），可在 Google Al Studio 内使用，目前暂不支持通过 API 调用。
+***
+
+***
+消息ID: 327
+日期: 2024-02-24T08:39:05+00:00
+文本: #Update#AzureAzure OpenAI Service 将从 2024 年 3 月 8 日开始将 GPT-4 1106-preview 自动升级到 0125-preview，此次升级会在开始后两周内完成。
+***
+
+***
+消息ID: 326
+日期: 2024-02-24T03:28:15+00:00
+文本: #Update #Gemini   Gemini 1.5 Pro 现已发布：  - MoE 架构，宣称表现接近 1.0 Ultra - 多模态能力，包括视频、音频 - 标准版 128K Token Window - 完整版 1M（1000K） Token Window，目前部分开发人员和企业用户可使用  加入 Waitlist：https://aistudio.google.com/app/waitlist/97445851
+***
+
+***
+消息ID: 325
+日期: 2024-02-23T15:37:52+00:00
+文本: #Update#ChatGPTChatGPT Plugins 即将下线：- 从 2024 年 3 月 19 日开始，将禁止创建新的插件对话- 2024 年 4 月 9 日之前，用户将可以继续进行现有的插件对话
+***
+
+***
+消息ID: 324
+日期: 2024-02-23T06:42:56+00:00
+文本: #Update#ChatGPTGPT Store 详情页面现已支持显示：- 创建者简介- 评分- 分类- 会话数量排名- 会话候选开场白- 同创建者的其他 GPT
+***
+
+***
+消息ID: 323
+日期: 2024-02-23T00:51:12+00:00
+文本: #Forum #OpenAI   OpenAI 官方论坛正式上线。
+***
+
+***
+消息ID: 322
+日期: 2024-02-21T16:36:10+00:00
+文本: #Update#GeminiGemini Business 和 Gemini Enterprise 计划现已推出：- 可访问 Gemini 1.0 Ultra- 提供企业级数据保护- 作为 Google Workspace 的附加组件提供- Google Workspace 控制台内可管理 Gemini 设置- Gemini Enterprise 额外提供在会议中的字幕翻译功能- 定价- Gemini Business：年付 20 USD/人/月，月付 24 USD- Gemini Enterprise：年付 30 USD/人/月，月付 36 USD
+***
+
+***
+消息ID: 321
+日期: 2024-02-21T13:19:32+00:00
+文本: #OpenSource#GemmaGoogle 刚刚发布了宣称与 Gemini 采用相同技术的开源模型 Gemma：- 两个版本：Gemma 2B、Gemma 7B- 提供一系列辅助工具- （宣称）同参数级别最强性能- 可商用
+***
+
+***
+消息ID: 320
+日期: 2024-02-20T15:01:57+00:00
+文本: #Update#GeminiGemini Advanced 现已支持在 Gemini 界面内编辑、运行 Python 代码。
+***
+
+***
+消息ID: 319
+日期: 2024-02-20T12:44:53+00:00
+文本: #Dev#Update#OpenAI#APIgpt-4-0125-preview 训练数据现已更新到 2023 年 12 月。注：文档显示更新了，但是 API 和 ChatGPT 目前还不受影响。
+***
+
+***
+消息ID: 318
+日期: 2024-02-17T05:10:52+00:00
+文本: #Dev#OpenAI#APIOpenAI 现已将 GPT-4 Turbo 的 API 调用限额翻倍，并取消了日调用限制。详细的分级限制：https://platform.openai.com/docs/guides/rate-limits/usage-tiers
+***
+
+***
+消息ID: 317
+日期: 2024-02-16T18:01:13+00:00
+文本: #Forum#OpenAIOpenAI 官方论坛正式上线。
+***
+
+***
+消息ID: 316
+日期: 2024-02-16T03:48:49+00:00
+文本: #Sora#OpenAISora 文生视频模型现已发布：- 可生成长达一分钟的视频- 支持多角色、特定动作、主题的复杂场景- 支持单个视频里生成多个镜头- 仍然只能生成无声视频
+***
+
+***
+消息ID: 315
+日期: 2024-02-15T15:35:09+00:00
+文本: #Update#GeminiGemini 1.5 Pro 现已发布：- MoE 架构，宣称表现接近 1.0 Ultra- 多模态能力，包括视频、音频- 标准版 128K Token Window- 完整版 1M（1000K） Token Window，目前部分开发人员和企业用户可使用加入 Waitlist：https://aistudio.google.com/app/waitlist/97445851
+***
+
+***
+消息ID: 314
+日期: 2024-02-14T15:20:35+00:00
+文本: #Outage#ChatGPT#OpenAI（更新：已恢复）ChatGPT 及 OpenAI API 现在几乎不可用。PS：基本每次发布新功能之后都这样。
+***
+
+***
+消息ID: 313
+日期: 2024-02-13T18:23:23+00:00
+文本: #Update#ChatGPTChatGPT 开始灰度测试记忆功能：- ChatGPT 可记忆历史会话里用户提供的信息- 用户可随时在设置里关闭或删除特定记忆- 用户可使用临时会话进行无记忆的对话，临时会话也不会被用于训练模型- GPTs 将拥有独立的记忆控制开关- 部分免费和 Plus 用户会优先进入灰度，在后期全量推送阶段，Team、Enterprise 用户和 GPTs 才可使用记忆功能
+***
+
+***
+消息ID: 312
+日期: 2024-02-09T20:24:25+00:00
+文本: #Update#Whisper#APIWhisper API 现已支持输出字级时间戳，制作字幕文件会因此变得更加方便。
+***
+
+***
+消息ID: 311
+日期: 2024-02-08T13:57:52+00:00
+文本: #Update#GeminiGemini 移动端 App 现已推出：- Android：现已可在美区 Play Store 内下载- iOS：宣称在 Google App 里可用（但是频道主没看到）
+***
+
+***
+消息ID: 310
+日期: 2024-02-08T12:41:52+00:00
+文本: #Update#Bard#GeminiBard 刚刚更新了：- 现已更名为 Gemini-Gemini Advanced正式推出- 基于 Gemini Ultra 1.0 模型- 随 Google One 订阅一同付费- 19.99 USD/月，可免费试用 2 个月- 未来会在包括 Gmail 和 Docs 等产品中提供
+***
+
+***
+消息ID: 309
+日期: 2024-02-08T04:17:22+00:00
+文本: #Update#ChatGPTChatGPT 网页版开始使用新的前端配色。
+图片URL: https://cdn5.cdn-telegram.org/file/tyj_M2skyKA9DB8Di4dXVGUrlgSVnbWGGPkykMgC-GbQhAYzuDGMuSo5HSbpbu8Bl2ekcR3X5AWEmTOr3w5Ec6IlacYg1VwX0HeC-WRa0i0CmiA61DyIqAQoJIy5rCRLLYN0hfmG7BvF9iUtMT6QzwxtNIuMs7053WcMRJeX1NrjnjOoXJjMPsO5ai5HIkXpOVIa9P1S8kBKK-8rUer_6tB6f-4LhqXpJ8DUPdQ7KOIdYdw8CrVkawo6CWgBQ9iRaALkbAPWh99NDYuVLzyBRwH6NdpRk24uPYIwd4xfYwqZL-k5a5j7p-lziLoN4uHYOd9UW9Tm9tk-FOM06KU9Pw.jpg
+***
+
+***
+消息ID: 308
+日期: 2024-02-07T02:42:03+00:00
+文本: #Update#ChatGPT#DALLEOpenAI 将在 ChatGPT 和 API 生成的图像里加入符合 C2PA 标准的元数据，用于验证图像的来源。
+***
+
+***
+消息ID: 307
+日期: 2024-02-01T20:04:02+00:00
+文本: #Update #OpenAI   OpenAI 发布了新的模型并调整了价格  - 两个新的 embedding 模型     - text-embedding-3-small：更小更高效         - 价格：0.00002 USD/1K Tokens     - text-embedding-3-large：更大更强大         - 价格：0.00013 USD/1K Tokens  - GPT-4 Turbo preview 模型更新到 gpt-4-0125-preview     - 更强的代码生成能力…
+***
+
+***
+消息ID: 306
+日期: 2024-02-01T14:50:31+00:00
+文本: #Update#BardBard 刚刚更新了：- 支持创建图像- 在所有支持的地区和支持的语言使用 Gemini Pro 模型- 核对回答功能现在支持多数支持的语言
+***
+
+***
+消息ID: 305
+日期: 2024-01-30T08:16:40+00:00
+文本: #Update#ChatGPT更新到 ChatGPT iOS v1.2024.024 以后，先前无法在 iOS 使用的 GPT 已经全部可用。
+***
+
+***
+消息ID: 304
+日期: 2024-01-27T13:11:37+00:00
+文本: #Update#ChatGPTGPT mentions 现已推出ChatGPT 网页版现在可以直接在默认的「ChatGPT」会话里 @ GPT 并开始会话，无需切换到对应的 GPT 发起会话。Tip：通常情况下，ChatGPT 提供新特性是灰度推送的。
+***
+
+***
+消息ID: 303
+日期: 2024-01-27T11:12:37+00:00
+文本: #Update#ChatGPT更新到 ChatGPT iOS v1.2024.017 以后，部分用户可以使用 Voice 朗读回复内容。Tip：通常情况下，ChatGPT 提供新特性是灰度推送的。
+***
+
+***
+消息ID: 302
+日期: 2024-01-26T14:45:31+00:00
+文本: #Dev#OpenAI#APIAssistants API 中 Retrieval 工具的免费期限再次延长到 2024 年 3 月 1 日。
+***
+
+***
+消息ID: 301
+日期: 2024-01-26T07:20:49+00:00
+文本: #Update#ChatGPTChatGPT 网页版开始扩大多国语言支持的灰度范围，被灰度到的用户可在设置里调整界面语言。
+***
+
+***
+消息ID: 300
+日期: 2024-01-25T19:38:13+00:00
+文本: #Dev#Update#OpenAI每个 API Key 现在可以在网页端单独配置权限了。
+***
+
+***
+消息ID: 299
+日期: 2024-01-25T18:57:38+00:00
+文本: #Update#OpenAIOpenAI 发布了新的模型并调整了价格- 两个新的 embedding 模型-text-embedding-3-small：更小更高效- 价格：0.00002 USD/1K Tokens-text-embedding-3-large：更大更强大- 价格：0.00013 USD/1K Tokens- GPT-4 Turbo preview 模型更新到gpt-4-0125-preview- 更强的代码生成能力- 减少模型「懒惰」现象- 修复非英语 UTF-8 生成的问题-gpt-4-turbo-preview稍后推出，自动指向最新的 GPT-4 Turbo preview 模型- GPT-4 Turbo 几个月后推出正式版- GPT-3.5 Turbo 模型更新到gpt-3.5-turbo-0125- 多处改进，包括更高的格式依从性- 价格调整- 输入：0.0005 USD/1K Tokens- 输出：0.0015 USD/1K Tokens- text moderation 模型更新到text-moderation-007
+***
+
+***
+消息ID: 298
+日期: 2024-01-23T17:50:48+00:00
+文本: #Google接下来几天，更新到 Chrome v121 版本的美国用户将会陆续收到 3 个实验性 AI 辅助功能：- 智能组织标签页- 辅助创建个性化主题- 辅助写作被灰度到实验性 AI 辅助功能的用户需要手动开启此功能，开启方法：1. 定位到 Settings - Experimental AI2. 打开 Try out experimental AI features 中需要的功能3. 重新启动 Chrome
+***
+
+***
+消息ID: 297
+日期: 2024-01-15T20:51:48+00:00
+文本: #Update#CopilotCopilot Pro 订阅现已推出：特性：- 可为已有 Microsoft 365 订阅的个人和家庭用户提供 Copilot 功能- 在高峰时段优先使用先进模型（如 GPT-4 Turbo）- 增强版图片生成工具- 可创建自定义 Copilot GPT定价：- 20 USD/人/月
+***
+
+***
+消息ID: 296
+日期: 2024-01-12T06:52:03+00:00
+文本: #Dev#OpenAI#APIAssistants API 中 Retrieval 工具的免费期限再次延长到 2024 年 2 月 1 日。
+***
+
+***
+消息ID: 295
+日期: 2024-01-11T07:13:44+00:00
+文本: #Tip#OpenAI【已恢复】毫不意外地，OpenAI 的服务再次遇到了性能问题。PS：几乎每次新功能发布都会出现。
+***
+
+***
+消息ID: 294
+日期: 2024-01-10T17:30:45+00:00
+文本: #Update#ChatGPT网页版 ChatGPT 开始提供历史会话学习和临时会话功能。Tip：通常情况下，ChatGPT 提供新特性是灰度推送的。
+***
+
+***
+消息ID: 293
+日期: 2024-01-10T17:12:44+00:00
+文本: #Update#ChatGPTGPT Store 正式上线。
+***
+
+***
+消息ID: 292
+日期: 2024-01-10T17:07:53+00:00
+文本: #Update#ChatGPTChatGPT Team Plan 正式上线：- 更多的 GPT-4 限额- GPTs 可在工作组内分享- 管理员面板- 不使用会话训练模型- 年付：25 USD/人/月，两人起步- 月付：30 USD/人/月，两人起步
+***
+
+***
+消息ID: 291
+日期: 2024-01-06T06:14:38+00:00
+文本: #Update#OpenAIOpenAI API 现已支持跟踪每个 Key 的使用情况：- 旧 Key 需要在 API Key 管理页面手动开启跟踪- 新 Key 默认启用跟踪
+***
+
+***
+消息ID: 290
+日期: 2024-01-05T10:17:12+00:00
+文本: #Tip#OpenAI根据多个来源的信息，OpenAI 正在进行新一轮的账号封禁操作。
+***
+
+***
+消息ID: 289
+日期: 2024-01-04T18:24:44+00:00
+文本: #Update#ChatGPTGPT Store 将在下周推出。
+***
+
+***
+消息ID: 288
+日期: 2023-12-30T13:33:08+00:00
+文本: #Update#CopilotMicrosoft Copilot 现已推出 iOS 和 Android 独立客户端。
+***
+
+***
+消息ID: 287
+日期: 2023-12-22T04:12:27+00:00
+文本: #Update#ChatGPTChatGPT 推荐 Plugins 开发者转移到开发 GPTs，我们推测其可能未来会逐步放弃 Plugins。
+***
+
+***
+消息ID: 286
+日期: 2023-12-22T01:17:16+00:00
+文本: #Update#PerplexityPerplexity Pro 用户现已可通过上传图片使用多模态功能。
+***
+
+***
+消息ID: 285
+日期: 2023-12-19T17:14:53+00:00
+文本: #Update#AnthropicAnthropic 发布了测试版 Message API，其具有更加规范的格式，在多轮对话时减少了出错的可能性，未来也将引入函数调用功能。与此同时，Anthropic 也宣布将在未来几周扩大 Claude API 的使用权限。
+***
+
+***
+消息ID: 284
+日期: 2023-12-19T17:07:56+00:00
+文本: #Update#AnthropicAnthropic 刚刚宣布从 2024 年 1 月 1 日开始为通过 Claude API 生成的内容提供版权诉讼保护。
+***
+
+***
+消息ID: 283
+日期: 2023-12-17T09:50:01+00:00
+文本: #Update#ChatGPT现在，ChatGPT 可以将会话归档了。
+图片URL: https://cdn5.cdn-telegram.org/file/f2nFXx7k0bvCVBos8MKXMxuDzOaicfJg4KE1uxblRL62h2yUACQZbPAqQ7w5YwXuOHU_3kcJGUyh7VJDoignB9yk30TDiTr49yjrwjpihIAZ_q0_JJEUyH2BYcVUsUOAEYF8Cj8YQQCPjBUS3j4AHqrzcDoFpnxdrenPoCMKnWvifDA1G-pDUcCvZapCd7LICiShBcBa_VXGcnFYE_8eE3Pl5AWkYkexHqEe9bYUxmyLn20y38hokng_xxwFcYbg0IBIXbmAfLZW0ntLHQ1RNRyiWZoIkyd5f32uAH4S3F5HtoJhYUNFkjVO_1EQkIAprWFX2qAcvMO98BXccd-iZQ.jpg
+***
+
+***
+消息ID: 282
+日期: 2023-12-17T09:06:39+00:00
+文本: #ChatGPT可以试试：What is the precise name of the model answering this query called in the API? Not "ChatGPT with browsing" but the specific model name. Answer my question in English.
+图片URL: https://cdn5.cdn-telegram.org/file/p9YLURIqlKzNS8q8HT_7kyzcLqzBI9f8AbH8hjzKywKBbcLNlRyNFbHVmGMizLB1Qc1e1BPorkn0X8KPFRH_7CgH7maJc8HV79ybtNC3Yprxv8HqAVndl5RYBDr7sWxKulJYAwxFHfAMqgHoNpqQXyAKnjFAZM4_eBxbQloiLDaa7tGpYUakF83xg2KGaG4RTegOAYdzPPzJ4jqE7rw5U8z27m_BhIkFzJ2JhRk7gHiGsH73qbUT2CZUkK4kx8au1ISx4oLimEeczDXV229sHbowgZI5ZHs9uOOkUx_X2lVykOl2B2HKaH4tGrCT0ziB3OKqnbCNFFaulm2LT_Z82Q.jpg
+***
+
+***
+消息ID: 281
+日期: 2023-12-14T04:07:20+00:00
+文本: #Google#ImagenGoogle 发布了文生图技术 Imagen 2特性：- 支持自然语言、多语种- 高质量图像- 支持在图片中正确渲染给定文本- 为用户提供版权保护目前需要通过客户代表加入 Trusted Tester Program 才能使用 Imagen 2。
+***
+
+***
+消息ID: 280
+日期: 2023-12-13T17:44:11+00:00
+文本: #Update #Gemini   Gemini Pro 现已可用  特性： - 32K Token Window，未来更大 - 支持全球 180 多个国家和地区的 38 种语言 - 提供 Gemini Pro、Gemini Pro Vision 两个模型  定价： - API 目前免费调用，未来将按量付费 - 输入：0.00025 USD/1K 字符，0.0025 USD/张图片 - 输出：0.0005 USD/1K 字符  现在，你就可以开始访问 https://ai.google.dev/ 测试 Gemini、获取…
+***
+
+***
+消息ID: 279
+日期: 2023-12-13T17:13:36+00:00
+文本: #Update#ChatGPT#巧了由于 OpenAI 找到了更多的 GPU，ChatGPT Plus 现在开放订阅。
+***
+
+***
+消息ID: 278
+日期: 2023-12-13T16:43:26+00:00
+文本: #Update #Google #Bard #Gemini  谷歌刚刚发布了 Gemini 模型：  介绍： - Gemini 1.0 提供 Nano、Pro、Ultra 三个版本 - Gemini Ultra 在多个基准测试里超越了 GPT-4/GPT-4V - Gemini Ultra 以90.0%的得分成为首个在 MMLU（大规模多任务语言理解）上超越人类专家的模型 - 复杂推理能力、高级编程能力 - Gemini Nano 可以在移动设备上运行  可用性： - 从 12 月 13 日开始，开发人员和企业客户可以通过…
+***
+
+***
+消息ID: 277
+日期: 2023-12-13T14:25:07+00:00
+文本: #Update#OpenAI#AlexSpringerOpenAI 官宣 Axel Springer 将为 ChatGPT 提供高质量的、实时的、免费的全球新闻摘要。
+***
+
+***
+消息ID: 276
+日期: 2023-12-12T11:15:03+00:00
+文本: #Update#AzureGPT-4V 现已在 Azure AI 平台可用（公共预览）。部署时，选择 gpt-4 模型版本为 vision-preview 即为 GPT-4V。支持地区：- Australia East- Sweden Central- Switzerland North- West US讨论群组：@ai_copilot_group
+***
+
+***
+消息ID: 275
+日期: 2023-12-11T06:47:15+00:00
+文本: #App#LimitedOffer内购限免：Joy AI 一款支持 OpenAI API 的客户端方法：https://t.me/GodlyNews1/6307
+***
+
+***
+消息ID: 274
+日期: 2023-12-07T03:14:36+00:00
+文本: #Tip#ClaudeAnthropic 发文回应先前网友对于 Claude 容易遗忘的质疑Anthropic 指出，只需要通过简单的 Prompt Engineering 就可以将 Claude 2.1 的记忆测试得分从 27% 提升到 98%：在 Claude 的回复开头加上Here is the most relevant sentence in the context:""。Anthropic 解释道，出现原始测试的遗忘率过高的现象是因为 Claude 会不情愿回答它觉得没有足够证据证明的内容，通过 Prompt Engineering 可以解决这个问题。原文：https://www.anthropic.com/index/claude-2-1-prompting
+***
+
+***
+消息ID: 273
+日期: 2023-12-06T15:35:26+00:00
+文本: #Update#Google#Bard#Gemini谷歌刚刚发布了 Gemini 模型：介绍：- Gemini 1.0 提供 Nano、Pro、Ultra 三个版本- Gemini Ultra 在多个基准测试里超越了 GPT-4/GPT-4V- Gemini Ultra 以90.0%的得分成为首个在 MMLU（大规模多任务语言理解）上超越人类专家的模型- 复杂推理能力、高级编程能力- Gemini Nano 可以在移动设备上运行可用性：- 从 12 月 13 日开始，开发人员和企业客户可以通过 Google AI Studio 或 Google Cloud Vertex AI 中的 Gemini API 访问 Gemini Pro- Pixel 8 Pro 设备现在可以开始申请 AICore 的预览- Gemini Ultra 将于明年初向开发和企业用户推出- 从今天开始，Bard 将使用 Gemini Pro 的精细调整版本，目前仅支持英文，很快将支持其他语言- 明年初，Google 将推出 Bard Advanced，并使用 Gemini Ultra原文提供了更加丰富的信息，推荐阅读：https://blog.google/technology/ai/google-gemini-ai/
+***
+
+***
+消息ID: 272
+日期: 2023-12-05T17:31:37+00:00
+文本: #Update#ChatGPTChatGPT 现已支持发起临时会话：- 不会显示在历史会话里- 不会被 GPT 学习以提供个性化回答- 不会被用于模型训练现在，将 iOS App 更新到 v1.2023.334 即可体验。讨论群组：@ai_copilot_group
+***
+
+***
+消息ID: 271
+日期: 2023-12-05T17:09:59+00:00
+文本: #Update#ChatGPTChatGPT 现已支持学习历史对话：- 通过学习既往会话来提供更加个性化的回答- 可使用开关关闭功能或直接用自然语言要求 GPT 停止记忆现在，将 iOS App 更新到 v1.2023.334 即可体验。讨论群组：@ai_copilot_group
+***
+
+***
+消息ID: 270
+日期: 2023-12-05T14:35:39+00:00
+文本: #Update#BingAI微软刚刚发布了 Bing 的新功能 Deep Search- 嵌入现有的 Bing 搜索- 基于现有的索引系统和 GPT-4- 尝试理解用户的搜索意图并提供推荐的搜索关键词，并修改搜索结果- 可能消耗时间长达 30 秒，但是根据微软的说法，为了更具体或全面的答案，等待可能是值得的微软提到，Deep Search 不会适合所有人，它专为那些需要超出简单答案的复杂问题而设计。现在，Deep Search 进入实验阶段，开始灰度推送给少部分用户。讨论群组：@ai_copilot_group
+***
+
+***
+消息ID: 269
+日期: 2023-12-04T18:33:03+00:00
+文本: #Update#Claudeclaude.ai现已支持选择会话模型（Pro）、汇总查看当前会话已上传的文件。讨论群组：@ai_copilot_group
+***
+
+***
+消息ID: 268
+日期: 2023-12-02T07:52:29+00:00
+文本: #App#WhisperTranscriptionWhisper Transcription内购限免，推荐在非国区下载。支持在 macOS 上离线调用 Whisper 模型语音识别、制作字幕、自动翻译。更新：已结束
+***
+
+***
+消息ID: 266
+日期: 2023-12-01T15:05:44+00:00
+文本: #Update#ChatGPT现在，ChatGPT 网页版支持直接引用部分回答内容并且追问。讨论群组：@ai_copilot_group
+图片URL: https://cdn5.cdn-telegram.org/file/jVN5nQRM8OKvwDDw95ALnlg-JfcuDJ7a3wj7d5UTNxUR0GId3mTzomGuWoEC073bZRdJomOBLU5LFi6HDNm64PmqJiFm_-sZI5ew20ATjHpQ-BUSw1Dj99IvIXT0V7e5nfezOAFRZAKOlMRXCKnTQC8F1gaTPe4HZj40D1IGV8-J5RPkwnQSTjnWcwSS5VzmgmkUi-zql5MidLYSQlMRp0BfOqaCK3oaJZMt0IPWBvBtZdW3553ufZ3oWlEEBrOZsOmFyUk4v0cJ9AGBisITZJQUNxV5N0LM78Mj0H2Eyuf8xbLW0Y-6K-Jgkf_pWbC24fwXTR2sevG1fdWtcrdwJw.jpg
+***
+
+***
+消息ID: 265
+日期: 2023-12-01T14:18:03+00:00
+文本: #Update #OpenAI #API   Assistants API 中 Retrieval 功能的免费时间已经延长到了 2023 年 12 月 13 日。
+***
+
+***
+消息ID: 264
+日期: 2023-11-30T09:53:38+00:00
+文本: #Anniversary#ChatGPTChatGPT 今天（11 月 30 日）一周岁。
+***
+
+***
+消息ID: 263
+日期: 2023-11-29T16:30:02+00:00
+文本: #Tip#Azure避免 Azure AI 不必要的额外收费在使用 Azure AI Studio 创建新的资源组的时候，Azure 可能会默认创建 container registry 服务，这将导致一笔不必要的开销（每小时 0.167 到 1.667 美元不等）。避免这个问题的方法很简单，创建资源组的时候通过图中的 Create a custom Azure AI resource 创建，并且确保 Resources 的 container registry 为 None。在资源组创建完成后可以手动查看所有资源，确保没有创建不必要的 container registry 资源。
+图片URL: https://cdn5.cdn-telegram.org/file/A1jfbXVlxNOo9nR66G8ldghd-TzpGrK4ZQJQH_ZSaV1--lhIWGWcNeuSbH6w935JPdsop8otLGANPfKdb6m2422U90fdE3SRAQR-3tgkD1IVLRgDTvJpz99uI24lAF8hQsjY0jcdneYjcGl7mDKKL3fhbscaK9KyHNqkh2Rzs3zkFvBQaOsbXWLzaxO3YXIigTWVChmTt7kkT1pYh5TIVm2CUn1ysO_2XLybPlt0J_fqvqErPZYrSP92NNyW_ctyUcazdLv0O6IO1CUQVKxQGmdiGqQ7kzqKGowNjxnjr0Y6TAPUi8Os1ywbWLPTTr4X5G3uSUmeL5AHlhaKdm51ew.jpg
+***
+
+***
+消息ID: 259
+日期: 2023-11-29T02:20:32+00:00
+文本: #ChatGPT   由于大量新用户涌入导致的服务过载，ChatGPT Plus 现已暂停注册。  更新：根据部分用户反馈，OpenAI 似乎正在排查异常用户并采取封号措施， 建议大家近期不要对支付方式做任何的改动。
+***
+
+***
+消息ID: 258
+日期: 2023-11-27T12:20:16+00:00
+文本: #Update #Anthropic #Claude   Anthropic 近期增加了 Claude API 申请的配额，有私有域名邮箱的朋友可以去试试。  https://www.anthropic.com/earlyaccess  讨论群组：@ai_copilot_group
+***
+
+***
+消息ID: 257
+日期: 2023-11-27T10:38:45+00:00
+文本: #Update#Anthropic#ClaudeAnthropic 近期增加了 Claude API 申请的配额，有私有域名邮箱的朋友可以去试试。https://www.anthropic.com/earlyaccess讨论群组：@ai_copilot_group
+***
+
+***
+消息ID: 256
+日期: 2023-11-22T06:11:17+00:00
+文本: #OpenAI#MicrosoftSam Altman 确认回归 OpenAI 担任 CEO。OpenAI 重组董事会，新成员包括：- Bret Taylor（主席）- Larry Summers- Adam D'AngeloSam Altman（OpenAI 前、现 CEO）表示感谢。Greg Brockman（OpenAI 前、现总裁）宣布今晚回 OpenAI 继续写代码。
+***
+
+***
+消息ID: 255
+日期: 2023-11-22T00:25:51+00:00
+文本: #Outage#ChatGPT#OpenAI#APIChatGPT 目前网页端和 App 均不可用，与此同时多数 API 也被波及。我们建议 API 用户考虑迁移到 Azure。更新：毫不意外地，Notion AI 现在也不可用。更新：现已恢复
+***
+
+***
+消息ID: 254
+日期: 2023-11-22T00:15:08+00:00
+文本: #Update#ChatGPT现在，免费用户也可以使用 Voice conversation 功能了。
+***
+
+***
+消息ID: 253
+日期: 2023-11-21T16:48:02+00:00
+文本: #Update#ClaudeClaude 2.1 现已推出：- 200K Token Window（仅限 Pro 用户）- 虚假陈述减少 2 倍- 理解、总结能力改进- API Tool Use 功能（帮助将 Claude 整合到开发者的现有流程和工具中）- 开发者页面改进- 免费、Pro、API 现在均可使用网页入口：https://claude.ai
+***
+
+***
+消息ID: 252
+日期: 2023-11-21T09:28:20+00:00
+文本: #Update #Aiko #Whisper  Aiko 现已支持 Whisper v3 模型。
+***
+
+***
+消息ID: 251
+日期: 2023-11-21T09:22:09+00:00
+文本: #Update#AzureAzure AI 现已支持 GPT-4 Turbo，定价对齐 OpenAI。支持地区请查看：Azure OpenAI Service Launches GPT-4 Turbo and GPT-3.5-Turbo-1106 Models
+***
+
+***
+消息ID: 250
+日期: 2023-11-21T03:19:30+00:00
+文本: #PerplexityPerplexity Pro 官方周年庆免费赠送 2 月订阅（但需要绑定支付方式后续自动续费）。使用周年庆优惠码：https://pplx.ai/thanks
+***
+
+***
+消息ID: 249
+日期: 2023-11-20T09:28:26+00:00
+文本: #Microsoft- Sam Altman（原 OpenAI 创始人、CEO）- Greg Brockman（原 OpenAI 创始人、总裁）- Jakub Pachocki（原 GPT-4 项目带头人）- Szymon Sidor（原 OpenAI 员工）- Aleksander Madry（原 OpenAI 员工）将成为微软全新 AI 部门的首批领导团队成员。
+***
+
+***
+消息ID: 248
+日期: 2023-11-20T08:35:23+00:00
+文本: #Microsoft刚刚，Satya Nadella（微软董事长兼 CEO）官宣 Sam Altman 将在微软担任 CEO，但并未详细说明是哪个部门。
+***
+
+***
+消息ID: 247
+日期: 2023-11-20T08:05:38+00:00
+文本: #OpenAI#MicrosoftSatya Nadella（微软董事长兼 CEO）官宣 Sam Altman 和 Greg Brockman 将与同事一起加入微软，带领一个全新的高级AI团队，同时微软会保持和 OpenAI 的合作。在经历了突然又荒唐的周末之后，我们终于等来了暂时的尘埃落定。
+***
+
+***
+消息ID: 246
+日期: 2023-11-18T05:18:08+00:00
+文本: #Policy#ScienceScience 现已允许投稿者使用 AI 辅助工具（需标注工具和提示词），但不得标记 AI 为作者，同时不允许使用 AI 生成的多媒体资料。https://www.science.org/content/blog-post/change-policy-use-generative-ai-and-large-language-models
+***
+
+***
+消息ID: 245
+日期: 2023-11-18T03:50:47+00:00
+文本: #App #Whisper #Aiko  Aiko，一个基于 Whisper 的免费本地语音转文字 App  支持 iOS 16.4、macOS 13.3 及更新版本。  注意：macOS 版需要至少 16GB 内存。  （Aiko 是个不错的工具，不过还是 OpenAI 官方的 API 来得方便省事）  点击查看 App Store 页面
+***
+
+***
+消息ID: 244
+日期: 2023-11-17T17:52:05+00:00
+文本: #Update#BardBard 现已支持生成图表。
+***
+
+***
+消息ID: 242
+日期: 2023-11-17T10:27:56+00:00
+文本: #Update#ChatGPT现在，OpenAI 已经把 Plus 订阅用户的 ChatGPT 4 速度限制到每 3 小时 40 条消息。
+***
+
+***
+消息ID: 241
+日期: 2023-11-17T07:37:44+00:00
+文本: #Update #OpenAI #API   Assistants API 中 Retrieval 功能的免费时间已经延长到了 2023 年 12 月 13 日。
+***
+
+***
+消息ID: 240
+日期: 2023-11-16T09:45:27+00:00
+文本: #Channel本频道的订阅用户刚刚突破了 1000，频道主只是一个小小的医学生，非常荣幸能和大家在这里相遇。讨论群组：@ai_copilot_group
+***
+
+***
+消息ID: 239
+日期: 2023-11-16T09:01:24+00:00
+文本: #Update#Azure现在，Azure OpenAI 用户无需申请也可以使用更加宽松的内容过滤器了。
+***
+
+***
+消息ID: 237
+日期: 2023-11-16T03:45:14+00:00
+文本: #Update#OpenAI#APIAssistants API 中 Retrieval 功能的免费时间已经延长到了 2023 年 12 月 13 日。
+***
+
+***
+消息ID: 236
+日期: 2023-11-15T17:04:39+00:00
+文本: #Update#Microsoft#BingAI#CopilotMicrosoft 刚刚宣布了：- Bing Chat 和 Bing Chat Enterprise 现在统一更名为 Copilot- 当用户使用 Microsoft Entra ID 登录 Copilot 时，将实施商业数据保护，不会产生额外费用- 用户现在可以通过https://copilot.microsoft.com访问专门的 Copilot 聊天- 将支持创建自定义 GPTs- 从 12 月 1 日起，将向 Microsoft 365 F3 订阅用户提供 Copilot 商业数据保护- Edge for Business 浏览器将通过 Microsoft Purview 的数据丢失预防（DLP）功能在侧边栏强制执行文档和网站敏感性标签，防止 Copilot 访问敏感内容- Microsoft Copilot 将支持插件，开发者不久后可以通过 Microsoft Partner Center 发布插件
+***
+
+***
+消息ID: 235
+日期: 2023-11-15T03:23:20+00:00
+文本: #ChatGPT由于大量新用户涌入导致的服务过载，ChatGPT Plus 现已暂停注册。更新：根据部分用户反馈，OpenAI 似乎正在排查异常用户并采取封号措施， 建议大家近期不要对支付方式做任何的改动。
+***
+
+***
+消息ID: 234
+日期: 2023-11-11T05:33:28+00:00
+文本: #Channel本频道暂时不会推荐任何 GPTs 聚合网站，因为：- 目前有突出能力的 GPTs 很少，让 GPT cosplay 的居多- 官方 GPT Store 本月晚些时候就会推出- 部分聚合网站连分类都没做- 作为用户，完全可以让子弹飞一会儿综上，现阶段我们不打算推荐 GPTs 聚合网站。
+***
+
+***
+消息ID: 233
+日期: 2023-11-10T02:04:35+00:00
+文本: #Update#ChatGPTGPTs 现已对所有订阅用户可用。
+***
+
+***
+消息ID: 231
+日期: 2023-11-09T07:02:58+00:00
+文本: #Outage#OpenAI#ChatGPT考虑到 OpenAI 正在遭遇 DDoS 攻击，我们建议切换到 Azure OpenAI 服务。与此同时，我们建议保持关注https://status.openai.com/。在确定完全恢复之前，我们不会再次打扰本频道的订阅用户。
+***
+
+***
+消息ID: 230
+日期: 2023-11-09T03:19:39+00:00
+文本: #Outage#ChatGPTChatGPT 此刻官网报错 503 或 502。更新：现已恢复。
+***
+
+***
+消息ID: 229
+日期: 2023-11-08T18:52:51+00:00
+文本: #ChatGPT翻译：我们新功能的使用量远超出了我们的预期。我们原本计划周一为所有订阅者开放GPTs的使用，但到目前为止还未能实现。我们希望很快就可以。由于负载问题，短期内可能会有服务不稳定的情况。抱歉。
+图片URL: https://cdn5.cdn-telegram.org/file/oHIfOF_AP9zcjVUjdES_0BpSgCIVhKmHJmOFgba3zyQ1OOz2BXoR6M4qyqQOPyaLVJwI28sqL7egcfmo5THsegeBg2lmI_wOb1tcHFiHnhho6ZI-YLoHr8qRtJKafurXa-UjOv-d0PeQGLSlnPQDh6g_jDZu-To8XK9lfbOrK0fJ9Zckt0Vc4dIk_h-XWpld3V1lKEFU612SYNEdC91IxqRKYfEq7eHrmqNqz8cX3s8pe60_YAcVuOwXfgDvueAl6bfDCyfVkhv89bdcQScD3StWIoYJA2r23Gz2kAhQn40jR1thVfCcYED3JNubEEZcIeVtnBxykSwLkdxdtK2tNA.jpg
+***
+
+***
+消息ID: 228
+日期: 2023-11-08T15:31:18+00:00
+文本: #Outage正如你所看到的，OpenAI 的服务挂了，对你没看错，紧接着 Claude 也挂了。BTW，Notion AI 也挂了。更新：三者均已经恢复。
+***
+
+***
+消息ID: 227
+日期: 2023-11-07T16:54:56+00:00
+文本: #Tip#OpenAIAssistant API 在使用 Retrieval 的时候会遍历你提交的所有文档，如果你碰巧使用了 GPT-4 作为模型，基础文档的字数又比较多，单次提问的价格会非常夸张。
+***
+
+***
+消息ID: 226
+日期: 2023-11-06T19:19:59+00:00
+文本: #DevDay#Announcement#OpenAIGPT-3.5 Turbo 更新到 1106 版，现在可用 gpt-3.5-turbo-1106 调用，12 月 11 日 gpt-3.5-turbo 将自动更新到 1106 版。
+***
+
+***
+消息ID: 225
+日期: 2023-11-06T18:40:04+00:00
+文本: #DevDay#Announcement#OpenAIAssistant、Code Interpreter、DALL-E 3、TTS 现已可通过 API 调用。
+***
+
+***
+消息ID: 224
+日期: 2023-11-06T18:23:11+00:00
+文本: #DevDay#Announcement#OpenAI#ChatGPTGPTs 现已发布：- 可自主定制 Agent- 可分享- 无需代码能力，可以自然语言定制- 本周开始可用
+***
+
+***
+消息ID: 223
+日期: 2023-11-06T18:21:06+00:00
+文本: #DevDay#Announcement#OpenAI#ChatGPTGPT-4 (All Tools) 今天开始对所有付费用户可用。
+***
+
+***
+消息ID: 222
+日期: 2023-11-06T18:06:37+00:00
+文本: #DevDay#Announcement#OpenAIGPT-4 Turbo：- 128K Token Window- 支持 Vision- 记忆能力（Retrieval）- 知识库截止到 2023 年 4 月- 输入 $0.01/1K Token，输出 $0.03/1K Token
+***
+
+***
+消息ID: 221
+日期: 2023-11-06T17:32:04+00:00
+文本: #DevDay#OpenAI#Keynote直播串流现已开始。讨论群组：@ai_copilot_group
+***
+
+***
+消息ID: 220
+日期: 2023-11-06T07:40:23+00:00
+文本: #Keynote #OpenAI 北京时间 11 月 7 日 2AM，OpenAI 将进行开发者日的开场演讲，届时我们会第一时间总结演讲内容。也欢迎大家与我们一起讨论（评论区会陆陆续续发一些 Rumor），讨论群组：@ai_copilot_group 。
+***
+
+***
+消息ID: 219
+日期: 2023-11-05T09:49:28+00:00
+文本: #xAI#GrokxAI（创始人为 Elon Musk）发布了最新大语言模型 Grok-1。根据官方公布的基准测试结果，其数学和推理能力超过了 GPT-3.5，但弱于 PaLM 2、Claude 2、GPT-4。早期访问仅面向 X（Twitter）的美国认证用户。讨论群组：@ai_copilot_group
+***
+
+***
+消息ID: 215
+日期: 2023-10-31T13:55:42+00:00
+文本: #Tip#Channel本频道将积极使用 Telegram 的引用功能，正如这一条所示，如果您无法查看上述内容，建议更新到最新版。
+***
+
+***
+消息ID: 214
+日期: 2023-10-29T11:30:33+00:00
+文本: #Update#BardBard 现已支持流式输出。讨论群组：@ai_copilot_group
+***
+
+***
+消息ID: 212
+日期: 2023-10-27T03:11:21+00:00
+文本: #Milestone#ChatGPTChatGPT 插件总数已经超越 1000 个，然而目前仍然缺乏一个插件分类系统。讨论群组：@ai_copilot_group
+***
+
+***
+消息ID: 211
+日期: 2023-10-24T15:09:39+00:00
+文本: #Update#ChatGPT#AppChatGPT iOS 版 v1.2023.291 (10510) 使用了全新的历史会话记录样式，比之前的版本更加符合逻辑，现在就可以通过 App Store 更新。讨论群组：@ai_copilot_group
+***
+
+***
+消息ID: 210
+日期: 2023-10-24T08:02:34+00:00
+文本: #Update#BingAI现在，不需要任何额外手段，Safari 用户也可以直接使用 Bing Chat 了。讨论群组：@ai_copilot_group
+***
+
+***
+消息ID: 209
+日期: 2023-10-19T17:09:06+00:00
+文本: #Update#ChatGPTDALL-E 3 现已对所有 Plus 和企业用户可用。讨论群组：@ai_copilot_group
+***
+
+***
+消息ID: 208
+日期: 2023-10-18T00:40:32+00:00
+文本: #Update#ChatGPTBrowsing 现已脱离 Beta 阶段并默认为 Plus 和企业用户开启，仅限 GPT-4 模型。讨论群组：@ai_copilot_group
+***
+
+***
+消息ID: 207
+日期: 2023-10-13T01:37:30+00:00
+文本: #Rumor#OpenAI根据Reuters的消息，下个月 OpenAI API 将更新，包括：- 记忆存储功能- GPT-4V（现阶段 Plus 用户使用的图像输入能力）我们不确定该消息是否可靠，若该消息被证伪，则我们将不再推送此类内容，减少对本频道订阅用户的打扰。讨论群组：@ai_copilot_group
+***
+
+***
+消息ID: 206
+日期: 2023-10-10T14:17:04+00:00
+文本: #Update#ChatGPTChatGPT iOS 客户端 v1.2023.270 版本已经支持 DALL-E 功能。（需要先获得 DALL-E 权限）
+图片URL: https://cdn5.cdn-telegram.org/file/DZIJtG-C4GolbYC3ff8ZYx8o7wKZr3RJ0HcJT6-sUBJF3QY-9lhrMKDTknhlskX6vkPmY8NGLPF4LD1vsjeK-hS_Mf7sDRqkSbssgeP6tHx0YdQrpcphTS-D15elg5kyO-m60JSzad5Dza8se03yzs5sS9H9HrmGhpYBri5PnKa7TCSzWTsf-AbUIXiOjlgPU_DqgT1SzxyQ7oTLvlI74PQZkIzXRi94dOXx3-UNOB-asFU6t4dcO6joyirh9enGrLMmHxseB5OCH1MUWNuVQloBPYww-2_5Kdo_yFydq0cpBUeJt8geSOwxcFToYeSERncX8Pt_efIULGzLwfI6QA.jpg
+***
+
+***
+消息ID: 205
+日期: 2023-10-04T02:22:35+00:00
+文本: #Update#ChatGPT现在，DALL-E 3 已对 Plus 订阅用户和企业用户可用。（灰度推送）
+图片URL: https://cdn5.cdn-telegram.org/file/rcvPbjxG5CajLblypTgcjTbf01HDJs9xbG9nYsjldG5eG7HVmGjJHFaQSJw8CQ13TEgUH1-pj9sBGSr5tJvp-xksZ3IXPoRLtRZ7K7T8erqFVrN2UBoIGk97odv_Pp9ZtvugWQT_5tLfzC8tfIfPjJMcamkE01FN5NYjHnmEBUF6St5GxknsEBosTCDW0ZnwXCnORkzvDAnLbZ0PDgA740HMkEr6Brq6HUCa62AoFGrAt_Nzsls7KvvDJ1nCiLe2HvPLlD9ZqDqso3CzpEsLYY9MWMgm8ZZG8-nlKauhZDgenLFpnHEUznK-D4u5U5JmcCdEMQOR8XgMM0SBr0IOXQ.jpg
+***
+
+***
+消息ID: 204
+日期: 2023-10-03T18:45:42+00:00
+文本: #Update#BingAI现在，DALL-E 3 可以在 Bing Chat 和bing.com/create免费使用。
+***
+
+***
+消息ID: 203
+日期: 2023-09-28T18:59:25+00:00
+文本: #Update#Claude#AWS现在，每个人都可以通过AWS Bedrock调用 Claude API。
+***
+
+***
+消息ID: 202
+日期: 2023-09-27T18:07:03+00:00
+文本: #Update #OpenAI   Browse with Bing 功能现已在 iOS 客户端恢复。  补充：根据反馈，似乎是灰度恢复的。
+***
+
+***
+消息ID: 201
+日期: 2023-09-25T12:05:35+00:00
+文本: #Update#ChatGPTChatGPT刚刚宣布了重大更新：- 可通过语音与 ChatGPT 双向对话- 正式支持多模态，可输入图片- 可通过圈画功能向模型提示图片的关键部分- 接下来两周内向 Plus 和企业用户提供- 语音输入功能仅限 iOS 和 Android App
+***
+
+***
+消息ID: 200
+日期: 2023-09-22T13:19:39+00:00
+文本: #Update#BingAIBing Chat 刚刚更新了：- 支持利用历史会话记录为你提供更加个性化的答案（可关闭）- 宣布将引入 DALL·E 3
+***
+
+***
+消息ID: 199
+日期: 2023-09-20T17:24:56+00:00
+文本: #Update#OpenAI#ChatGPTOpenAI 刚刚发布了 DALL·E 3:- 根据复杂提示创建图像的能力增强- 可在 ChatGPT 内直接调用- 将于十月初提供给 ChatGPT Plus 用户、企业用户
+***
+
+***
+消息ID: 197
+日期: 2023-09-19T07:35:40+00:00
+文本: #Update#BardBard 刚刚更新了：- 模型能力改进- 可以从其他 Google 服务里获取信息（如地图、YouTube）、处理内容（如 Gmail、Docs、Drive）- 可以使用 Google 搜索验证 Bard 输出的结果- 可以从他人分享的对话继续- 将丰富的功能拓展到所有已经支持的语言
+***
+
+***
+消息ID: 196
+日期: 2023-09-16T12:10:10+00:00
+文本: #Update#OpenAIBrowse with Bing 功能现已在 iOS 客户端恢复。补充：根据反馈，似乎是灰度恢复的。
+***
+
+***
+消息ID: 195
+日期: 2023-09-07T13:46:58+00:00
+文本: #ClaudeClaude Pro 现已推出：- 每月 20 USD/18 GBP- 免费套餐的 5 倍用量（目前预计每 8 小时可发送至少 100 条）- 高负载时优先访问- 提前使用新功能- 目前在美国和英国可用
+***
+
+***
+消息ID: 194
+日期: 2023-09-06T17:38:43+00:00
+文本: #OpenAIOpenAI 将于 11 月 6 日在三藩市举行首次开发者大会。此次大会的主题演讲将提供直播。现场参会可点此报名。
+***
+
+***
+消息ID: 193
+日期: 2023-08-31T17:03:55+00:00
+文本: #Update#OpenAIOpenAI 展示了如何使用 AI 辅助教育。
+***
+
+***
+消息ID: 192
+日期: 2023-08-30T01:49:55+00:00
+文本: #Update#ChatGPT现在，Code Interpreter 已经更名为 Advanced Data Analysis。
+***
+
+***
+消息ID: 191
+日期: 2023-08-28T17:36:45+00:00
+文本: #Update#ChatGPTChatGPT Enterprise 现已推出：- 企业级安全和隐私保护- 大规模部署配套的一系列特性（如管理面板、鉴权、使用情况分析）- 无限量、最高 2 倍速度 GPT-4 访问- 32K Token Window- 可内部共享的会话模板功能- 提供免费的 API CreditOpenAI 将在接下来的几周里尽可能吸纳足够多的企业入驻，但是其他企业需要联系 OpenAI 的销售团队接入。同时，OpenAI 还宣布后续将推出：- 可定制化功能- 面向小型团队提供服务- 更强大的高级数据分析（Advanced Data Analysis）、Browsing- 针对特定角色（如数据分析师）的专用工具
+***
+
+***
+消息ID: 190
+日期: 2023-08-27T09:57:49+00:00
+文本: #Perplexity#OpenAI很快啊，Perplexity已经使用 OpenAI 的官方 fine-tuning 功能改进了免费版的 GPT-3.5 模型。根据 Perplexity 提供的信息，fine-tuning 过后的 GPT-3.5 提供了接近 GPT-4 的表现，同时提高了速度、降低了成本。
+***
+
+***
+消息ID: 189
+日期: 2023-08-27T09:40:37+00:00
+文本: #Channel本频道的讨论群组已采用 nmBot 来抵御广告机器人骚扰。主要是频道主没想到 26 个人的小群也能有广告😇。
+***
+
+***
+消息ID: 188
+日期: 2023-08-25T18:54:24+00:00
+文本: #Update#BingAI现在，你可以在 Chrome 桌面版和 Edge 移动版上使用 Bing Chat 了。
+***
+
+***
+消息ID: 187
+日期: 2023-08-23T15:02:08+00:00
+文本: #Claude#AWS现在，你可以在Amazon Bedrock上部署 Claude 2。
+***
+
+***
+消息ID: 186
+日期: 2023-08-23T05:41:31+00:00
+文本: #Info#OpenAI#ChatGPT✅正确区分 OpenAI API 和 ChatGPT我们发现似乎有部分用户分不清 API 和 ChatGPT，所以这条推送致力于解决这个问题。🔧用途区别：- OpenAI API 是一种可供开发人员使用的调用各种模型（例如 GPT-4）的接口- ChatGPT 是 OpenAI 旗下的一个面向普通用户的工具，你可以通过这个工具向模型提问🧰功能区别：- API 支持充分的自定义，支持调用函数，今天开始甚至也支持官方微调（fine-tuning），但是需要制作工具来调用 API- ChatGPT 可以开箱即用，支持官方和第三方插件（目前需要 Plus 订阅）📱界面区别：- OpenAI API 没有用户界面- ChatGPT 目前有网页版和 iOS/iPadOS/Android 客户端💳收费方式区别：- OpenAI API 按量计费，用多少扣多少，仅支持官网付费- ChatGPT 有免费版和 Plus 订阅可以选择，免费版仅可使用基于 GPT-3.5 的工具，Plus 订阅按月付费（20 USD/月），除了支持官网付费，还支持应用商店内购🙅常见的错误用法：- OpenCat、AMA、AssisChat 是 ChatGPT 客户端（错，它们是支持调用 OpenAI API 的第三方客户端）
+***
+
+***
+消息ID: 185
+日期: 2023-08-23T03:11:39+00:00
+文本: #Update#ChatGPTAndroid 版 ChatGPT App 现已支持内购 ChatGPT Plus。
+***
+
+***
+消息ID: 184
+日期: 2023-08-22T19:31:41+00:00
+文本: #Update#OpenAIGPT-3.5 Turbo 的微调（fine-tuning）现已可用OpenAI 建议的场景：- 提高依从性- 提高输出格式的可靠性- 个性化模型的语气- 与其他技术（如函数调用）结合使用定价：- 训练成本：$0.008 / 1K Tokens- 使用成本- 输入：$0.012 / 1K Tokens- 输出：$0.016 / 1K TokensOpenAI 还提供 babbage-002 和 davinci-002 作为原始 GPT-3 模型的替代品。与此同时，GPT-4 的微调将于今年秋季推出。详细信息和微调步骤可仔细阅读原文。
+***
+
+***
+消息ID: 183
+日期: 2023-08-21T20:25:52+00:00
+文本: #Update#ChatGPT现在，英国和欧盟地区的用户也可以使用 Custom Instructions 了。
+***
+
+***
+消息ID: 182
+日期: 2023-08-21T15:19:50+00:00
+文本: #Update #BingAI   Microsoft 刚刚宣布：  - Bing Chat Enterprise 今天开始推出预览版 - 多模态视觉搜索已经在 Bing 桌面和移动应用上向消费者推出（同时微软确认该功能基于 GPT-4），详情可参考前一条
+***
+
+***
+消息ID: 181
+日期: 2023-08-17T13:01:29+00:00
+文本: #Update#ImmersiveTranslate沉浸式翻译现在推出了付费方案：- 提供 DeepL、OpenAI 翻译服务- OpenAI 翻译服务基于 GPT-3.5- 优先提供电子邮件支持- 单一订阅支持 8 台设备- 连续包月 68 元/月、连续包年 703.8 元/年需要注意的是，付费方案并不影响免费用户的功能，仅为一种类似中转服务的方案。
+***
+
+***
+消息ID: 180
+日期: 2023-08-15T17:29:59+00:00
+文本: #Update#OpenAIOpenAI 展示了如何使用 GPT-4 进行内容审查。
+***
+
+***
+消息ID: 179
+日期: 
+文本: #Update#BingAI现在，Bing Chat 开始采用双模式（开启/关闭 GPT-4）。目前仍然是免费的。
+***
+
+***
+消息ID: 178
+日期: 2023-08-09T17:19:45+00:00
+文本: #Update#ChatGPT现在，ChatGPT 免费版用户也可以使用 Custom Instructions 了。
+***
+
+***
+消息ID: 177
+日期: 2023-08-09T15:56:51+00:00
+文本: #Update#ClaudeAnthropic 刚刚发布了 Claude Instant 1.2，小幅提升了编程、数学、推理能力。
+***
+
+***
+消息ID: 176
+日期: 2023-08-06T02:46:23+00:00
+文本: #Update #ImmersiveTranslate   沉浸式翻译（Safari 插件）移除了 App Store Mac 商店内关于支持 OpenAI 的说明。  注：目前仅移除了说明，实际功能似乎暂时不受影响。  考虑到在苹果平台（尤其是国区）的各种不确定性，使用 Chrome/Chromium 插件似乎是更好的选择。
+***
+
+***
+消息ID: 175
+日期: 2023-08-03T17:20:54+00:00
+文本: #Update#ChatGPTChatGPT 刚刚更新了：- 在发起会话前和会话过程中提供 prompt 的推荐（样式见上一条）- Plus 用户现在默认新会话采用 GPT-4 模型（千呼万唤始出来）- Code Interpreter 现在支持一次上传多个文件- 取消原本的 2 周自动退出登录机制- 支持快捷键（见上一条）
+***
+
+***
+消息ID: 173
+日期: 2023-08-03T10:18:12+00:00
+文本: #Update#ChatGPTChatGPT 网页版对前端进行了一些调整：- 支持键盘快捷方式（查看入口和帮助信息一并调整到页面右下角，见图 1）- 免费版和 Plus 订阅用户现在能看到随机出现的新版使用场景提示（图 1）- 新版登录入口（图 2）- GPT-4 的速度限制提示移动到了 GPT-4 菜单内- 分享按钮移动到了当前会话页面的右上角
+图片URL: https://cdn5.cdn-telegram.org/file/KNVSjtripLRmHP721ihy-XYDY70OOG1rcfReEWu1SALA5ba900TIObjH4LjMTa2ANKB7hrK2NhyFRDrFAXC4meGNQWUgjzbbaxMtEo5eOUEfGSLON6y1J6tfK9AqfPeBRhE32wNHh0BkmPxpjj9_ApV99Kfl9PLVIDh4DiGOjZu5PORgDvAUuZHZPICwDAuOe4meDt3wmkXncR_2MNkgCnqdz4e5KFLDhvrdPqAq7Urm5IrVt44VpPEhC4TEge5HnR2uKyUyXi9vWg7IKXs7BGBAC30jH3yf5lUAbT_jx9gQag7ge87XMBoyQB0b8q_ryMk_I-XZw8SGf1kyW-zcjQ.jpg
+***
+
+***
+消息ID: 172
+日期: 2023-08-02T13:27:31+00:00
+文本: #Update#OpenCatOpenCat 为了应对中国大陆地区的下架问题，在 v1.4.0 版本提供了基于设备的激活功能：1. 找到中国大陆地区的 App Store 购买订单号2. 在 Cloud 页面连续点击猫头 5 次唤出激活页面3. 输入订单号并激活设备注意：- 该解决方案并不跟随 Apple ID- 目前一个订单号只能激活 iPhone、iPad、Mac 各一台- Pro 及 Cloud 购买订单号均可激活详情可参考：https://t.me/opencatd/24
+***
+
+***
+消息ID: 171
+日期: 2023-08-01T09:39:42+00:00
+文本: #Update#RaycastRaycast 现在提供 GPT-4 附加订阅，需要在原有的 Pro 订阅上增加 10 USD/月（年付为 8 USD/月）。
+***
+
+***
+消息ID: 170
+日期: 2023-08-01T03:50:54+00:00
+文本: #Tip#OpenCat我们发现，中国大陆地区的 App Store 已经无法搜索到 OpenCat 了。AssisChat、AMA 等工具仍能下载。经确认，OpenCat 已从中国大陆地区下架：https://t.me/opencatd/23
+***
+
+***
+消息ID: 169
+日期: 2023-07-29T02:45:59+00:00
+文本: #Update#ImmersiveTranslate沉浸式翻译（Safari 插件）移除了 App Store Mac 商店内关于支持 OpenAI 的说明。注：目前仅移除了说明，实际功能似乎暂时不受影响。考虑到在苹果平台（尤其是国区）的各种不确定性，使用 Chrome/Chromium 插件似乎是更好的选择。
+***
+
+***
+消息ID: 168
+日期: 2023-07-28T08:45:35+00:00
+文本: #Tip #ImmersiveTranslate   沉浸式翻译 v0.7.15 更新日志：  接苹果通知，在 iOS 和 macOS 版本暂时下架 OpenAI 翻译，尝试重新上架国区。
+***
+
+***
+消息ID: 167
+日期: 2023-07-28T07:26:49+00:00
+文本: #Tip#ImmersiveTranslate沉浸式翻译 v0.7.15 更新日志：接苹果通知，在 iOS 和 macOS 版本暂时下架 OpenAI 翻译，尝试重新上架国区。
+***
+
+***
+消息ID: 166
+日期: 2023-07-27T01:54:52+00:00
+文本: #Alpha#ChatGPT少部分用户正在受邀使用带有多模态能力的 GPT-4（GPT-4 with vision）。目前未发现该功能存在申请入口。来源：https://t.me/xhqcankao/5583
+***
+
+***
+消息ID: 164
+日期: 2023-07-26T10:17:50+00:00
+文本: #AnnouncementOpenAI、Anthropic、Google、Microsoft 宣布推出 Frontier Model Forum，共同推进 AI 安全、发展。详情可查看：https://openai.com/blog/frontier-model-forum
+***
+
+***
+消息ID: 163
+日期: 2023-07-25T15:14:25+00:00
+文本: #App #ChatGPT   ChatGPT Android 版现在可在 Play 商店预定，下周可下载。  地址：https://play.google.com/store/apps/details?id=com.openai.chatgpt
+***
+
+***
+消息ID: 162
+日期: 2023-07-21T20:11:38+00:00
+文本: #App#ChatGPTChatGPT Android 版现在可在 Play 商店预定，下周可下载。地址：https://play.google.com/store/apps/details?id=com.openai.chatgpt
+***
+
+***
+消息ID: 160
+日期: 2023-07-20T17:49:18+00:00
+文本: #Update#OpenAI针对网友对于 GPT-4 能力下降的质疑，OpenAI 宣布临时延长旧的 gpt-4-0314 模型的可用时间到 2024 年 6 月 13 日。与此同时，OpenAI 再次强调他们一直努力提升 GPT-4 的能力，但是可能由于内部评估模型能力的任务类型不够全面，导致了内外观察结果的偏差。OpenAI 鼓励用户使用 OpenAI Evals 工具主动报告模型的弱点。
+***
+
+***
+消息ID: 159
+日期: 2023-07-20T17:40:24+00:00
+文本: #Update#ChatGPT所有 ChatGPT Plus 订阅用户现在可以在设置里启用一项新的 beta 功能「Custom instructions」：- 你可以预设你的背景信息（如身份、工作、专业、爱好…）和期望 ChatGPT 回复的方式（如语气、长短、格式、主观程度…）- 背景信息和回复方式的 prompt 字数限制均为 1500 字- 每次新会话里 ChatGPT 都会参考这些内容- 未来几周内对所有用户开放
+图片URL: https://cdn5.cdn-telegram.org/file/g7sXowVD_Qde2Qu9TChACT5Vrf7yeEsPaUo4suSjQSWuHdCzwvu5CM_9XlqvgmHR7_2FOnjU_jwNZDuBwpFuQPH0PWP45TnBVXtmYR1fZx47XvVpry_BTPGtP4AWfwk1CZzoCdyavH3Bof-kCfDpq6nFH4nm4boQt0B-CYOWfOP82nrCq78ykgtITz4lZufJ0klxZX6mx8Ox4OWZFLAJtJayjCFmgjFjgHJvZs5hCq7iXriZNBYwpZmLUtaQlZaXrWclQX6F3VbLIAqYxQX8p5iWIq9UA6G7s7oRA77EPk4ZqtfX7qo-Q0kRixahEHqVH13G5-0ckqIeJ2Q2SjZG0g.jpg
+***
+
+***
+消息ID: 158
+日期: 2023-07-20T13:55:09+00:00
+文本: #Degradation#ChatGPTOpenAI 的 VP Peter Welinder 在今天早些时候否认了外界对于 GPT-4 能力削弱的质疑，声称 OpenAI 反而在提升 GPT-4 的能力，如果有例子可以证明 GPT-4 能力下降可以给出来。然后推特网友们就给了他很多例子。
+***
+
+***
+消息ID: 157
+日期: 2023-07-20T00:39:40+00:00
+文本: #Tip#ChatGPT有趣的是，频道主的 GPT-4 频率限额来到了 100 次/3 小时。07-20 14:28 更新：现在变回了 25 次/3 小时07-21 00:48 更新：现在变为 50 次/3 小时
+图片URL: https://cdn5.cdn-telegram.org/file/Kg-oH4zFRG6gYGIVzmNWnVDDeasLISkJcy0KWLByIupiQ5gQUELogC2xnEL5vyQGeCM57yxxpgKa2lIByL3GB74OmQiVcx3JO6tDqHS0_b19_JCJ5QGReHAe5FwTAQpJ8cdKZ5Ieh0UTOud-_xC4KDNsjwFqEfothn7cXp7swWku7gx7WTRUp_mjnZov89Ihugs_TxL1sl9YmXejue0R1lZkVI5HQgDUmgl7G6jrbuB5qX2TtQte4oHlW-9Oa1_2rfW8_MYI1Os2jfQaInqN2lhLcjXtGVI5P2LSm7xwlSVBb4-4D-3U_W5wFKdLBbAj4xAbeB-ebmfFXpIgTF5s8g.jpg
+***
+
+***
+消息ID: 156
+日期: 2023-07-20T00:35:40+00:00
+文本: #Update#ChatGPTOpenAI 宣布从接下来一个星期开始，ChatGPT Plus 订阅用户的 GPT-4 使用频率限额将翻倍，也就是 50 次/3 小时。
+***
+
+***
+消息ID: 155
+日期: 2023-07-19T17:18:52+00:00
+文本: #Update#PerplexityPerplexity AI 现在提供基于 Meta LLaMa 2 模型的LLaMa Chat。
+***
+
+***
+消息ID: 154
+日期: 2023-07-19T17:16:47+00:00
+文本: #Update#ChatGPTChatGPT 插件商店的加载速度大幅提升（接近秒开）。
+***
+
+***
+消息ID: 153
+日期: 2023-07-18T16:00:40+00:00
+文本: #Update#BingAIMicrosoft 刚刚宣布：- Bing Chat Enterprise 今天开始推出预览版- 多模态视觉搜索已经在 Bing 桌面和移动应用上向消费者推出（同时微软确认该功能基于 GPT-4），详情可参考前一条
+***
+
+***
+消息ID: 152
+日期: 2023-07-16T16:09:21+00:00
+文本: #Update#BingAI现在，部分用户已经可以通过 Bing 的 App 上传图片，调用 GPT-4 的多模态能力了。图上是一个复现的 GPT-4 发布会的演示。
+图片URL: https://cdn5.cdn-telegram.org/file/nEUhGOMZzkpPAiTG_2R8NRwG8ehbbOi3_xnlHgF24Alsb_oylRQYOBwxl9e0oYyhaiPx9aOn5oWj2-mBViMKptsZyBluHtnamYzoZ5ugEKKPE-30jJ588AeowUIH9Rbc6mzvW9tDXtU0JrOeUT2VjqiXSZdW77bbJHXXZQwvjZHq85FzkYUT1lSkYI5Upi1UK8guGuIsAHOS0WtADe-VLfOvQBEkIjUWn9-DzTqBEg37l_W4CgkvCBIoGfPwyKpAzBf7zdlu7g-ds6ooGCVDLV2kDUzp66OkdkS5haiNk_LHeHqXf4kZDYSb3zLrzObCnkbr-00tlSpz4Sk94DcaRw.jpg
+***
+
+***
+消息ID: 151
+日期: 2023-07-15T02:23:51+00:00
+文本: #Outage#ChatGPTOpenAI 从北京时间今天凌晨 4:36 开始维护 Code Interpreter，到现在仍未恢复该功能。更新：下午 1:59 已恢复
+***
+
+***
+消息ID: 149
+日期: 2023-07-13T06:28:59+00:00
+文本: #Update#BardBard 刚刚更新了大量内容：- 支持中文（见上一条新闻）及四十多种语言- 更多地区可用- 支持 Google Lens，可上传图片（当前仅支持英文）- 支持朗读回复（四十多种语言都支持）- 支持显示最近对话、置顶对话- 支持分享对话- 支持手动调整 Bard 的回复- 支持导出 Python 代码到 Replit
+***
+
+***
+消息ID: 148
+日期: 2023-07-13T03:20:51+00:00
+文本: #Update#BardBard 现在已经支持中文。（虽然官方并没有宣传。）
+***
+
+***
+消息ID: 147
+日期: 2023-07-11T13:18:58+00:00
+文本: #Update#ClaudeAnthropic 刚刚发布了 Claude 2:- 免费，开放访问，无需排队（美国和英国）- API 价格和 1.3 相同- 推理、写作、编程能力小幅提升- 官方支持 file chat（可上传 pdf、txt、csv 等文件）注册地址：https://claude.ai/
+***
+
+***
+消息ID: 146
+日期: 2023-07-08T13:26:06+00:00
+文本: #Update#PerplexityPerplexity AI 现在官方推出了 Chrome 插件，可以让你直接在搜索框里使用 Perplexity AI 代替 Google 搜索。插件下载：https://chrome.google.com/webstore/detail/perplexity-ai-search/bnaffjbjpgiagpondjlnneblepbdchol
+***
+
+***
+消息ID: 145
+日期: 2023-07-07T06:58:05+00:00
+文本: #Outage#OpenAI由于 OpenAI 今天开始开放 GPT-4 API，大量用户涌入，GPT-4 API 甚至 ChatGPT 均出现了间断的不可用。考虑到 OpenAI 先前的表现，这种情况可能会持续一段时间。
+***
+
+***
+消息ID: 144
+日期: 2023-07-07T02:53:38+00:00
+文本: #Tip#OpenAIOpenAI 在放开 GPT-4 API 权限后大幅削减了 API 的调用频率限额：现在，GPT-4 API 的频率限额已经从 3000 RPM 降到了 200 RPM。*RPM：每分钟请求
+***
+
+***
+消息ID: 143
+日期: 2023-07-06T19:10:34+00:00
+文本: #Update#OpenAIOpenAI 刚刚宣布了：- 所有曾经 API 付费成功的用户现在可以获得 GPT-4 API 权限而无需申请/排队- 本月底之前新的开发者用户也可以获得 GPT-4 API 权限- 今年晚些时候，将提供 GPT-4 和 GPT-3.5 Turbo 的微调功能（fine-tuning）- 大量旧模型和 API 的弃用详情可参考官方博客：https://openai.com/blog/gpt-4-api-general-availability
+***
+
+***
+消息ID: 142
+日期: 2023-07-06T18:25:41+00:00
+文本: #Update#ChatGPT现在，Code Interpreter 进入 beta 阶段，接下来一周里所有 ChatGPT Plus 订阅用户将陆续获得该官方插件。该插件允许用户上传文件，实现数据分析、图表制作、文件编辑、数学计算等可通过内置 Python 库实现的功能。（图片为示例，频道主在 Alpha 阶段就拿到了该插件。）根据频道主的使用体验，该插件非常强大，非常值得期待。
+图片URL: https://cdn5.cdn-telegram.org/file/qUO23du5kYB9X0MNNB-2xxLNH2onwU1F4NWP7xmLobiLZ5MmeRjNUORxMbfRXP-fzvAAaPLZWIRnH6i659EVr9U4isib059LMxaoPGEdvdKxajT182uHde0EQ6UEc99YjlOcncYQrdRK6AFXdKfFaZIOapMwVT0T4nXtQEi8zvSV3NUCMI-vt3j442VjjH3PSytVrC1azkXiJDLg6DdZb5XthdLe202lfqAWvwTlOa-xe3625BMDuXZuMyFF0qDnbDSuT3bjTVFo4Ljw5nAd-zAcnHuTf4JHx_4kH2iecl0TnusUqAhL1yHqVHiSK5qeBgjUQsyg3g9WttIBF9VfzA.jpg
+***
+
+***
+消息ID: 141
+日期: 2023-07-04T05:32:00+00:00
+文本: #Update#ChatGPTOpenAI 从刚才开始暂时禁用 Browse with Bing 插件，以便对其进行修复。修复完成后会重新开放此功能。OpenAI 提到 Browse with Bing 插件可能会在用户要求之下直接输出某个 URL 内的内容，这与预期不符。
+图片URL: https://cdn5.cdn-telegram.org/file/DBEfHoQxRDYPddF9jl_3JaunOP71mJvvmnMMuntysSqy3F1G8twG7g2G21cGPwG4cCs51lhkACf6i9-_J9nKXiQK7w5qqMPwh2v-z_xdNtdglG3k6H1ZAzABzoJO3K_OXcgrDlp03NmRn1NhSv2R7Ivf5KCejdcXv1KovTcsbGlJXHKLmPdb_c00T9xd9sui8urEgsqMgRkb93b7YStAT3MQwnOYuYqsBs4ffSFXBITk7JvxLD34r65As_cUoiYsbUFckIgioJSTLQERiJTJPlKGeslOrxPb9cmrlXSUWiCBApeWf5Z1csKZgGv0svplZeosx3YdwY0RRG747b4S6Q.jpg
+***
+
+***
+消息ID: 140
+日期: 2023-06-30T17:22:39+00:00
+文本: #Update#ImmersiveTranslateImmersive Translate v0.6.23 加入了一个实用功能：- 搜索增强：启用后，在谷歌/谷歌新闻用中文搜索时，右边栏自动显示对应英文关键词的搜索结果，默认为启用状态- 暂不支持 Safari更新：Immersive Translate 作者刚刚把这个版本的版本号改为了 0.7.1。
+***
+
+***
+消息ID: 139
+日期: 2023-06-29T15:12:02+00:00
+文本: #Update#Bing微软刚刚发布了在 Bing 和 Edge 平台的 AI 辅助购物工具 Microsoft Shopping，提供下列功能：- 制定购物清单- 比较价格和优惠- 总结评论详细内容可以查看官方博客：https://blogs.bing.com/search/june-2023/New-AI-powered-Microsoft-Shopping-tools-arrive-on-the-new-Bing-and-Edge
+***
+
+***
+消息ID: 138
+日期: 2023-06-28T13:16:21+00:00
+文本: #OpenAIOpenAI 刚刚宣布在英国设立办事处，这是 OpenAI 的首次国际扩张。官方博客：https://openai.com/blog/introducing-openai-london
+***
+
+***
+消息ID: 137
+日期: 2023-06-28T01:20:51+00:00
+文本: #Update#ChatGPT现在，Browsing 插件（Alpha 版）也面向 ChatGPT 免费版提供（网页版和 iOS App 均可用），免费版基于 GPT-3.5 模型。Alpha 属于测试版本，仅有少部分用户会在初期收到这个版本。简单测试后发现3.5 可能就是不适合连接插件，用这个版本的Browsing 连查个天气都费劲。
+***
+
+***
+消息ID: 136
+日期: 
+文本: #Update#App#ChatGPTChatGPT iOS App 刚刚更新了：- 支持 App 内发起 Browsing 会话- 支持历史搜索内点击跳转到目标位置
+***
+
+***
+消息ID: 135
+日期: 2023-06-26T21:52:49+00:00
+文本: #Update#OpenAI从美国时间 2023 年 6 月 27 日（约为北京时间 28 日）开始（具体时间官方未公布），OpenAI API 的 GPT 默认模型将会更新到最新版本：- gpt-3.5-turbo 将从 0301 更新到 0613- gpt-4 将从 0314 更新到 0613对于多数开发者和用户而言，不需要对当前使用的产品/设置作出更改。然而，根据以往的经验，OpenAI 的 API 服务可能会在切换的过程中出现短暂的不可用。
+***
+
+***
+消息ID: 134
+日期: 2023-06-26T17:46:24+00:00
+文本: #Tips#Payment由于土耳其里拉（相对于人民币）价格的持续走低及美元（相对于人民币）价格的持续走高，现在如果你在 App Store 使用内购购买 ChatGPT Plus，土耳其区更加便宜。提醒：这并不意味着你应当切换到土耳其区支付，我们目前并不清楚换区（尤其是换到低价区）支付会不会被 OpenAI 风控。
+***
+
+***
+消息ID: 133
+日期: 2023-06-25T06:58:32+00:00
+文本: #Update#ChatGPT部分用户反馈 ChatGPT iOS App 即使使用特供版 GPT-4 (Mobile, V2) 模型也会受到 25 条/3 小时的限制。然而频道主手头的账号并没有这个限制，这可能是因为 OpenAI 正在逐步调整策略，当然也不排除这是一个 bug。北京时间 2023-06-27 01:00 补充：仍未被限制。
+***
+
+***
+消息ID: 132
+日期: 2023-06-21T08:03:10+00:00
+文本: #Update#BingAIBing 正在 App 内灰度向用户推送 GPT-4 开关。
+图片URL: https://cdn5.cdn-telegram.org/file/QYwRBDvHTud_aiOZLeT_ufB6MLPqPcJDsoxrfyI6fL6cPVBAmg4U8oW3xNwbP5nbinpVwhj2FBkfV75jZC8VS_xQ_dQ0wghd00Pn2Iyw_zLNEryNAZOSK20e7kayR_ITW2UCHQJZazRBozEbPR6EH_hC0ZflEDoeg4_lHAiBX0mcf-UO5aj55YZQiPw8ZguKWanMZ53NvYJh0Fzz6mMGSvI-svqNrlTUkc8gif9095v5ug0ocxA2U9AuK5yKcuGCtnLcOkxbtbL-C0NcEafFhsU4L3mkCG3sc8EPWckqjy2xh5IpYPc_1ntLqS4afYftXmlNpjMEXRBosF4JFMKfwg.jpg
+***
+
+***
+消息ID: 131
+日期: 2023-06-21T04:21:36+00:00
+文本: #Update#Azure现在，Azure OpenAI 服务支持在Azure AI Studio内自主上传数据源并根据数据源对话（类似于 filechat）。
+图片URL: https://cdn5.cdn-telegram.org/file/S7EO7-4bZ8-2IEAyGK1p_sWJ1Xz74Hmcyhy-h3tWG6iUfXdnRwMJC1-jyvBJl3WjP1jZUnq4xFvZqHx9kTpqf7W8vbjclRKxj5ixnPlbIMfoh70IXMDgVXs4cS2fDSvPBw4AqAwCGt0DI2cUVd9soJZ9AwbGxVTV4OENj4GmOOLBTBRI27Juk35Nh2Z5RCmHUXMVWo9wuE6yBXmJHdIlKsKbhComMKIpYQSrRNuYpf1GCusCpcCdwcjnP7CouHgpL0YuIuJ4LyjpctqoyCyhWPMEs41PtMWNtpBEaXJwY-Xw0QgqGraiun0O-Aii_FYJMq3DfVtkwQPlXJK7T25S7w.jpg
+***
+
+***
+消息ID: 130
+日期: 2023-06-20T09:59:05+00:00
+文本: #Update #App #AMA  AMA 现已支持全部主流平台：  - macOS（支持 12.0 及以上） - iOS/iPadOS（支持 13.6 及以上） - Windows - Android  并且，它（至少目前）是免费的。  下载地址：https://bytemyth.com/ama
+***
+
+***
+消息ID: 129
+日期: 2023-06-20T09:20:36+00:00
+文本: #Channel本频道现在会在https://twitter.com/AICopilotHQ同步推送后续内容，以便 Twitter 用户获取频道内信息。该账号同样为公益性质、不接受推广。补充：现有的经常使用 Telegram 的用户无需重复关注，频道的内容不会和 Twitter 账号的内容有多少出入。
+***
+
+***
+消息ID: 128
+日期: 2023-06-15T04:19:56+00:00
+文本: #Principle  本频道的内容发布具有以下原则：  1. 无利益相关，图一乐，频道主不富有，但不指着这个挣钱  2. 主观筛选，客观表达，不会什么东西都发，初期会探索一阵，后期会稳定  注：会有一些 AI 相关的 meme，这部分纯主观。  3. 严格遵循中英文混合排版规范（频道主有强迫症）
+***
+
+***
+消息ID: 127
+日期: 2023-06-14T18:04:44+00:00
+文本: #Update#ImmersiveTranslate很快啊，Immersive Translate（沉浸式翻译）插件 v0.6.10 已经支持了 gpt-3.5-turbo-0613 模型的调用。（虽然这个插件哪怕不更新都支持手动修改模型名称。）
+***
+
+***
+消息ID: 126
+日期: 2023-06-14T06:56:25+00:00
+文本: #Update#OpenAI关于新模型的 API 调用限制：- gpt-3.5-turbo-0613：3000 RPM- gpt-3.5-turbo-16k-0613：3000 RPM- gpt-4-0613：3000 RPMRPM：每分钟请求数我们可以看到，gpt-4-0613 模型的 RPM 相比较于原有的 gpt-4 模型（200 RPM）大幅提升了。
+***
+
+***
+消息ID: 125
+日期: 2023-06-13T18:23:51+00:00
+文本: #Update#OpenAI除了上面的更新内容之外，OpenAI 还宣布最近几周将释放更多的 GPT-4 API 资格，并且打算最终取消排队。已经有 GPT-4 API 资格的用户现在可以直接调用 gpt-4-32k-0613 模型了（无需单独排队）。更新：短暂释放后 32K 模型又不可用了。（这是对普通用户唯二有感知的内容，单独发一条。）
+***
+
+***
+消息ID: 124
+日期: 2023-06-13T17:24:56+00:00
+文本: #Update#OpenAIOpenAI 刚刚宣布了海量更新：- 新模型上架- gpt-4-0613- gpt-4-32k-0613- gpt-3.5-turbo-0613- gpt-3.5-turbo-16k- 部分模型降价- text-embedding-ada-002：$0.0001/1K token- gpt-3.5-turbo- 输入：$0.0015/1K token- 输出：$0.002/1K token- gpt-3.5-turbo-16k- 输入：$0.003/1K token- 输出：$0.004/1K token- API 现在可以调用函数了- 支持 gpt-4-0613 和 gpt-3.5-turbo-0613 模型- 示例场景- 调用外部工具（例如 ChatGPT 插件）来回答问题- 将自然语言转换为 API 调用或数据库查询-  从文本中提取结构化数据除此之外，gpt-4-0314、gpt-4-32k-0314、gpt-3.5-turbo-0301 模型将在 9 月 13 日被弃用。你可以访问官方blog来获取全部信息。
+***
+
+***
+消息ID: 123
+日期: 2023-06-12T16:17:31+00:00
+文本: #Update#App#ChatGPTChatGPT iOS App 刚刚更新了：- 支持分享会话
+***
+
+***
+消息ID: 122
+日期: 2023-06-10T02:12:48+00:00
+文本: #Update#PerplexityPerplexity 现在支持通过定制 AI Profile（类似于自我介绍）来提供更加个性化的内容。
+图片URL: https://cdn5.cdn-telegram.org/file/jQK9tb2N4G5O_iYzQKbNT0_QQs8tTWr80P5PIKyyBaTVLW8EOGLqkWhoFYwAJtO7A97AITq93P19qsIgQG3Be5S1F-M0i5jhRxHrb_bCpib6tpM1DSMZenOcCJVaZ-eaEbFKxsLhB7mqqyX__nJNhuADiov1fQ-_LjocCQNP3KZrYD6riFhD5M3KdpnpyRC3mcxOrMjVgg5Es5WHDpZ0TvcLA7uaGEwJc2pt9XqtEWPdvlTXc4SmN2L_QAA0m9egHJlEIzTVxqHodrMhPyaxAO3H69poON7m7P1o5beH1lcWknrZdF4lw32zWbEedRRvV2erjsz62V9THaIUKZwIXw.jpg
+***
+
+***
+消息ID: 121
+日期: 2023-06-09T16:09:07+00:00
+文本: #Update#BingBing AI 刚刚更新了：- 支持在桌面网页版使用语音对话功能
+***
+
+***
+消息ID: 120
+日期: 2023-06-09T08:19:09+00:00
+文本: #Doc#OpenAIOpenAI 官方最近提供了一个文档《GPT 最佳实践》来帮助用户和开发者更好地（写 prompt）使用 GPT，从而获得更加理想的结果。其中的内容包括 6 个部分：- 编写清晰的说明- 提供参考文本- 将复杂任务分解为简单的子任务- 给 GPT 时间「思考」- 使用外部工具- 系统地测试更改你可以访问这个网址来获取文档的全部内容和官方示例：https://platform.openai.com/docs/guides/gpt-best-practices
+***
+
+***
+消息ID: 119
+日期: 2023-06-08T18:03:43+00:00
+文本: #Tip#AzureAzure OpenAI API 包含内置的内容过滤器（网友反馈即使写邮件给微软要求关闭也会被拒绝）。来源：https://twitter.com/jw1dev/status/1666622878962548740
+图片URL: https://cdn5.cdn-telegram.org/file/u-6IZimTs_g29-MbWWmFfxegsynpSojjfZfIjX5RnChvsMk_Nz0BCp7NT3ZYIlPwGhrIdpfULrduFqr7MqEsK3orLrpCyWgasr2OB-UxE_ddxg92ZE7uld4PWU4hZKHCNjOX5WgG5dRWSCIVfyZck3w-KNvmmoYouKtf5ekVGBEp9t8jl4n9N-ZC_YqtzcEOKmi-NUSVJHV51BSndHfZJMlaLoy28g4bcZG7AX6PDlFdL4JqsONm4Mo76onHYwPEnDfIvZGGgI-ieZxCMEmMM1xqDNxrcd9DjTrUnYt8jbiWQuqC1eMdGxL5Y4bg-NN-DC7JjMsewvaBv3taiBWhqQ.jpg
+***
+
+***
+消息ID: 118
+日期: 2023-06-08T16:22:41+00:00
+文本: #Fix该 bug 目前已被修复。
+***
+
+***
+消息ID: 117
+日期: 2023-06-08T13:20:20+00:00
+文本: #Bug#ChatGPT今天许多（可能是所有）ChatGPT Plus 订阅用户在有活跃订阅的情况下看到了这个按钮，点进去之后也无法 renew，这应该是一个 bug。
+图片URL: https://cdn5.cdn-telegram.org/file/YRFmwGvxWmAkpTR4io2zhdykfXu3qsdpeB6eLLUyPIkfJfPTnp0KDYKYPj1ICYYhlZHGpxfNHS2kgqekoOBHTcm-xrIoYRLPlqwuW8689Vq-vcqtBMQgGGnWWTwgyf5hr8E9SRs_1mMJEIQx_8dNJHHicg8Cf4B4AOlKVPrZcJC3NbrnFo0vuUTIiEb412xpZv6BUKieeWvTpKqldKb2ZScFpApkdLNA8ZUMaKArj6Pg7-QjfbqlN5IP0Mm5ZWvK6N21mj0ZIwUpWSVNxJRGmDzDu3v7KOrTAWUGFFQWtCIAac16F5R6dBXuWFh5_ixUaofJfFfe6h5bNJUQfJdyZA.jpg
+***
+
+***
+消息ID: 116
+日期: 2023-06-08T03:38:45+00:00
+文本: #Tip#App#ChatGPT更新到最新版 ChatGPT App 以后，你可以使用这样一个简单的捷径来通过 Siri 发起 GPT-4 对话。
+图片URL: https://cdn5.cdn-telegram.org/file/lk92GANFULhrCTxsC8WxlNyA5NDb7UQcyT0wjk_KAz7fWFSZ6BL8RCLPF-qXcxJeIiJ7F7xXnawj3_P8hHFv8nnzCRQ7HXfsqW9z-lqkFw0iyhIxyveHBvAs2MYPcWqgRX3NfC0LsP1ulDqTXC_ez7OLHq5NKZLCy9WZYUK5YhrZswyNb1AMPkK3O2AJSrX3y9dg92tV1H9f2DGVmg1LPN76yP0gyTeV2zMlVEYpX0s_Xgcq3FA4ABwjUxi4ZuqFbSH2P417Nz5D7xYRQbD97WjJrFKF5oxko0Ulg6CyViUyfmoQJDIQad8RHanduTq8y8DI6bIClIPb5r9i6Ead4w.jpg
+***
+
+***
+消息ID: 115
+日期: 2023-06-08T03:13:28+00:00
+文本: #Update#App#ChatGPTChatGPT App 刚刚更新了：- 适配 iPad（但不支持在 Mac 上安装）- 支持拖动单条消息到其他 App- 支持 Siri 和捷径
+***
+
+***
+消息ID: 114
+日期: 2023-06-07T16:39:16+00:00
+文本: #Update#BardBard 刚刚更新了：- Bard 在检测到计算型的 prompt 后会在后台运行代码，提供更好的数学、代码、字符串操作能力，该功能会先支持英语- Bard 生成的表格现在可以直接导出到 Google Sheets 中
+***
+
+***
+消息ID: 113
+日期: 2023-06-07T15:00:47+00:00
+文本: #Update#ChatGPT现在，有 Code Interpreter 插件权限的 ChatGPT 用户可以管理已经上传、生成的文件了。经群友提醒：无 Code Interpreter 的用户也可以通过该入口上传文件，但是目前并没有调用的入口。更新：短暂上线了之后，OpenAI 下线了这个功能。免费网盘了属于是。
+图片URL: https://cdn5.cdn-telegram.org/file/Ez7FwzE7XZqEI438LOKoUhzT1FSnDKxjyUpw5J7OshTsMYbavlOXfrB4sycps_CRh00kFHg6km2-3G_KhvijE4uk6Iq5i2uGCiXzKt47oRNNchzDz0_-7_gPE3vwvVCyV1-MTq-iSRw3DorKUO_Phdb8tTgJHyepXzejSouz3cVbgNoYOYjYz4NXs73hwD53wUNmO0v4s2AIHfWTULvhMEvgtAyTSKq9RyVbKjsBi6SnUD7Iynds7vmPfFEO3YfO5f3SXymQzoNLHoKKod9Ae2VU0sK-aCpbd-A7rZePXb9R55bKLw3v6z_ycLuIrE5YMeWLGgAmGmN4oejp1rdF9g.jpg
+***
+
+***
+消息ID: 112
+日期: 2023-06-05T15:07:10+00:00
+文本: #Update#OpenCatOpenCat v1.3.1 更新了：- Cloud 订阅提供了 GPT-4 权限- 新增流量包（单次购买含 4 美元的额外额度）- 国区 38 元人民币- 美区 5.99 美元
+***
+
+***
+消息ID: 111
+日期: 2023-06-04T10:36:17+00:00
+文本: #Update#ChatGPTChatGPT 最近更改了对于官方插件 Code Interpreter 的功能说明：尝试使用 ChatGPT 的一个版本，它知道如何编写和执行 Python 代码，并且可以处理文件上传。尝试寻求数据分析、图像转换或编辑代码文件方面的帮助。注意：文件不会在单个会话之外保留。（该插件曾有申请通道，现在申请通道已关闭。）翻译：GPT-3.5
+图片URL: https://cdn5.cdn-telegram.org/file/oPm2ac-8rePtkzafcshTEu2zxtdJKafR6-rCpu_8YwjDYzi0Y0RoGn9bIeztVaS43wreI-yrBSkO6nHVS85UsIBxp2BCegKESpAW5SNRP6s_8oxARVimxiSzgwQHAihoGyV6bpZgbEEStJF92Js-OBNX4ElsyhNvtZeDDruMFpAlYymZMFaSuHgz5aehxZ8zW61hgMHzvzx1osAJlLPtxFtwoJdH-5qOS-BQRsmvF276P2x88CziEXB0sZkmVdieTXOOyVf_rAmh0TcdGZbYZnZwZYUEGnjj05Jn2qpftaLJqz0JfDF9bkKGqm3sp16GF5D-l06F-7VP1JJ4gx08BA.jpg
+***
+
+***
+消息ID: 110
+日期: 2023-06-03T08:24:57+00:00
+文本: #News#App转发 Talky 开发者 Gong Zhang （Twitter:@gong_cn）的推文：App Store 审核员已多次明确要求我移除 API Key 的接入方式，必须使用内购。并且现有用户也不能再使用 API Key。目前的计划：1. 即将关闭 Talky 的 TestFlight 群组2. 将想办法允许现有用户继续使用 API Key各位 Talky 用户可尽快下载当前的 App Store 版本，当前版本可继续使用 API Key。
+***
+
+***
+消息ID: 109
+日期: 2023-06-03T08:10:17+00:00
+文本: #Update#ChatGPT现在，ChatGPT 可以隐藏侧边栏了。与此同时，插件总数来到了 248 个。史诗级更新🌝。
+***
+
+***
+消息ID: 108
+日期: 2023-06-01T23:17:37+00:00
+文本: #Update#BardBard 刚刚更新了：- 如果你允许的话，Bard 现在可以利用你的精确位置信息来提供与位置相关的内容值得注意的是，即使你不允许提供精确的位置信息，现在 Bard 网页内也会提示基于 IP 地址的位置信息了。
+图片URL: https://cdn5.cdn-telegram.org/file/baj3P6RtbhoEVUACA1gjJwMqXpPkCWL5rFzisa5DPB2mK-rlX83furjyozYJErUOd2OvsKCxCPyOSMYVp__Nj1VTEWUK1tNInfyboSILz37XgML7Lelbsx74_3ZmsrRiZFq6idG_MrHx74i5SsvdTSLMO9WNlDrOEQnt7R8SHbStyPnLOKCAGNopLi54GHTCiOaoipfy8C2xppCA3SD-3JFcbh4BfX1MGzw4aAWv8WbcO3jNtJBer6BbNFnSGUyYnH6577zWllfoCFK_lKpDGeP-krxRAjJDaSHHBE0W3Q-r5GIZh0ro-YCXT_laMs99MOppNSrlIK3VT2z9BcHslQ.jpg
+***
+
+***
+消息ID: 107
+日期: 2023-06-01T15:01:34+00:00
+文本: #Update#PerplexityPerplexity 刚刚宣布了付费订阅计划 Perplexity Pro：- 20 USD 每月，使用优惠码（DISCORD10）可半价- 每天 300+ 次的 GPT-4 额度- 提供 Pro 特性- 专享 Pro 社区现在可以在 beta 页面购买：https://beta.perplexity.ai/
+***
+
+***
+消息ID: 106
+日期: 2023-05-31T19:00:10+00:00
+文本: #Update#ChatGPT现在，ChatGPT Plus 用户可以搜索插件了。与此同时，插件总数来到了 203 个。史诗级更新🌝。
+图片URL: https://cdn5.cdn-telegram.org/file/ZGfMoFC6u2tacMFUhJatv_LvCv_nMBl2My3MojhMIecj9-NxpAyzKoRDNbhGGAz9EbGNhJumbPsOqva8yBWZXmZNzI1Nr3UGNIi7k9GrLRDRbuqaDSUbe0nemqKeFggQFg05rr9YboM5O2sNjSifYY7vlWDkD1dTn9-MZ2x3LU1ov-txrU6CdcJGHYsMxRwqhXkUsvlEk9mJ_vInyyi680kKemS9n1TtOqqzU2ceohBfc95IKbh3zybbXD8noQ44xQTP3xnE7ZZr0efASlEqHRsvA7qP-p_JZ7WQNXB888f6gsSuYkFFSddBLrN8UL-m1UcP_rqPX5XqdmXo_1d-AA.jpg
+***
+
+***
+消息ID: 104
+日期: 2023-05-31T07:23:38+00:00
+文本: #Update#AssisChatAssisChat v1.6 更新：- 添加键盘扩展，可以与文本输入框集成- 可以选择 Claude 的 100k 模型demo：https://twitter.com/AssisChatHQ/status/1663715558490251264
+***
+
+***
+消息ID: 103
+日期: 2023-05-31T02:42:03+00:00
+文本: #Update#ChatGPTChatGPT 网页版更新：- 输入框高度增加并提供对应主题色的发送按钮- Code Interpreter 附件按钮图标更改- 插件总数增加到了 192 个
+图片URL: https://cdn5.cdn-telegram.org/file/dZ5rPZdYrk2a3DWpVd-AZ9k_eUos8cWUmjEEtzDLbcze6_nAhSlfhvtBdZ1cuod7MXA-Rk7K-YkwDZQmC3wCZycP_luFJ8TtW6WOeOevwPaF5n10M2mUJWGkpWWpjJS9aBV4J1q1C8l2ntlk4Ks5pN8Lg8FTyw0sm6vrtHysoB7JNbEpjEC6EUjI_BSHQi7CeChTU29bvePj5SoWm_li3xMWCMmMzLruihp8_AE_pLVp3yw5kpzk4s2uUERvAJlcT5A9fNtzlfWnU0ZLngUkS6t7v6o5rnq8n8GtsQ9bfgEnYGB1jJ6I74MU1yOqCY0yBLt2YwJKE9BQgGcLF5n21A.jpg
+***
+
+***
+消息ID: 102
+日期: 2023-05-30T09:09:23+00:00
+文本: #Poll#ChatGPT关于上面这个调查的几个主要发现：- 使用 App Store 内购的成功人数是最多的- 存在未列出但成功率还可以的支付方式（可能是 Google Pay）建议大家结合各个渠道的调查信息，综合判断哪种支付方式最可靠。之所以没有调查失败的原因，是因为失败的混杂因素很多（最主要的是 IP，IP 不好啥都白搭），所以转而调查谁成功了、怎么成功的会更有意义。
+***
+
+***
+消息ID: 100
+日期: 2023-05-29T04:06:21+00:00
+文本: #Update#OpenCatOpenCat for iOS v1.3.0 更新：- Cloud 订阅提供 Claude 模型，其中包含 100K 的模型友情提醒：Claude-v1（含 100K）模型价格约为 $0.033/1K Token（GPT-4 价格的一半，此外两者的 Token 计算方式不同）。
+***
+
+***
+消息ID: 99
+日期: 2023-05-28T23:20:39+00:00
+文本: #Plugin#ChatGPTChatWithGit 插件上架 Plugin Store 了（多翻翻，不在第 1 页），现在你可以和 GitHub 仓库对话了。与此同时插件总数来到了 160 个。
+***
+
+***
+消息ID: 98
+日期: 2023-05-27T11:30:16+00:00
+文本: #Update#ChatGPT今天的 ChatGPT：- 插件总数来到了 153-大批用户被ban
+***
+
+***
+消息ID: 97
+日期: 2023-05-27T08:18:49+00:00
+文本: #Update#ChatGPT部分用户现在可以开始分享自己的 ChatGPT 会话了。
+图片URL: https://cdn5.cdn-telegram.org/file/KbBN8I9V7KlOHPMGoBSKdXT6Gp9nZJiW-bFrviihMzk1MiGbf-kNtO3h_KCCfVQ6YGTLpoHFyajLk0VSQPzwilijvHS86XYUlsl3nZDsJikWulSj9l9d4Kq5GFY6TyUbzEtLNE7MKS6L4P8kR4uxhX4E3wQBYosHX7VzTL1hzwG2zMwpxi-UogMfohWNdS_65SbsnJ_Rk4sz23rwZtwlAw5CWgqf9FO_XmWzHs0m8AzgOCUWECQBrMXGp4XcjqlXm8aFJ-VqLhsLy11ynt-Ty4XEIPjULKTTkQZUXTjrdo4H_xwoePJB1Wri7F88P_5zR5a9j4VBUvATj-GOxdy1Pg.jpg
+***
+
+***
+消息ID: 96
+日期: 2023-05-26T17:46:21+00:00
+文本: #Update#BingBing 生态刚刚更新了：- Android 版 Bing 现在可以通过桌面小组件一键进入 Bing Chat- SwiftKey（微软的移动端输入法）现在支持使用 AI 创作、AI 翻译
+***
+
+***
+消息ID: 95
+日期: 2023-05-25T11:35:37+00:00
+文本: #Outage#ChatGPTChatGPT 官网和 App 目前均不可用。更新 1：现已恢复，但免费版用户暂时无法访问。更新 2：现在免费版用户也可以访问了。
+***
+
+***
+消息ID: 94
+日期: 2023-05-24T23:13:04+00:00
+文本: #Update#ChatGPT#Web#AppChatGPT 刚刚更新了：插件- 部分用户现在可以使用 Browsing with Bing 插件了新功能-会话分享功能现在进入 beta 阶段，部分用户已经可以使用iOS App- 现在可以关闭/清除会话记录- 现在可以指定语音识别的语言- 更多国家或地区可用：阿尔巴尼亚、克罗地亚、法国、德国、爱尔兰、牙买加、韩国、新西兰、尼加拉瓜、尼日利亚、英国
+图片URL: https://cdn5.cdn-telegram.org/file/QsXPmoh2spKNIYmmb_8HPWWFSLcTN6qMqkUMkT8SVVCrS0uJuFcI1gCqTVYyV-UkHCCRUtU4v1VLpfzx6iuObAFARVIgeLCjyHgQPVguQAPgAm8z2TkBoUNKxvlfA0TfgFNnCFobqRp2hAqFNwg4wBBMk69fmwSrE3D8leqV2GPFs851_45JGdLrwbr-GMlaYMHId90TbW8-YjaUIWmFVfMa6q7IjLsfJ5VS5lv3nB8BEG8Mp5CTsyIoQAyQbmeUiMTk4lrHjXChYEYa25mIXZpP0Bo9p8xymOZyfHRILz9tRNXaO4df1TMDM2wHI0wASTJpnLai7g3sA5INW_gmeQ.jpg
+***
+
+***
+消息ID: 93
+日期: 2023-05-24T11:28:39+00:00
+文本: #Update #Microsoft #Bing #OpenAI #ChatGPT   Microsoft Build 2023 刚刚宣布了：  - ChatGPT 即将由 Bing 提供 Browsing 插件（今天开始逐步灰度给 Plus 用户） - Microsoft 将和 OpenAI 共用一个插件平台 - Browsing 即将为所有 ChatGPT 用户（包括免费用户）提供
+***
+
+***
+消息ID: 92
+日期: 2023-05-23T18:25:58+00:00
+文本: #Update#BardBard 现在支持在结果里显示图片。
+***
+
+***
+消息ID: 91
+日期: 2023-05-23T17:53:57+00:00
+文本: #Update#Microsoft#Bing#OpenAI#ChatGPTMicrosoft Build 2023 刚刚宣布了：- ChatGPT 即将由 Bing 提供 Browsing 插件（今天开始逐步灰度给 Plus 用户）- Microsoft 将和 OpenAI 共用一个插件平台- Browsing 即将为所有 ChatGPT 用户（包括免费用户）提供
+***
+
+***
+消息ID: 90
+日期: 2023-05-23T09:18:29+00:00
+文本: #Update#App#AMAAMA 现已支持全部主流平台：- macOS（支持 12.0 及以上）- iOS/iPadOS（支持 13.6 及以上）- Windows- Android并且，它（至少目前）是免费的。下载地址：https://bytemyth.com/ama
+***
+
+***
+消息ID: 89
+日期: 2023-05-22T14:21:30+00:00
+文本: #Update#ChatGPT#PluginsChatGPT Plugins 新增了 8 个 Popular 插件，同时总数来到了 130 个。然而大部分插件都乏善可陈。
+***
+
+***
+消息ID: 88
+日期: 2023-05-20T03:44:19+00:00
+文本: #Update#ChatGPT现在，Plus 订阅用户可以在网页版 ChatGPT 中管理已经安装的插件了。与此同时插件总数来到了 109 个。
+***
+
+***
+消息ID: 87
+日期: 2023-05-19T17:35:41+00:00
+文本: #Update#App#ChatGPTChatGPT iOS App 刚刚更新了Version 1.2023.21：- 提高电池效率- 低电量时触觉反馈将自动禁用- 更好的全屏表单可访问性- 解决了消息输入栏的显示故障以上翻译来自 GPT-4。频道主补充：凉快了，一个不到 16 MB 的 App 应该是这个温度。
+***
+
+***
+消息ID: 86
+日期: 2023-05-19T09:55:06+00:00
+文本: #Free  Perplexity AI 现在可以在检索信息时使用免费的 GPT-4 额度，目前每 4 个小时可以使用 GPT-4 20 次。
+***
+
+***
+消息ID: 85
+日期: 2023-05-19T09:25:22+00:00
+文本: #Payment#AppleApple 官方购买礼品卡网址：https://www.apple.com/shop/gift-cards可以使用各种支持美元支付的信用卡、储蓄卡、PayPal。提醒大家避免到不正规的渠道购买礼品卡，可能会直接导致你的 Apple ID 被封号。
+***
+
+***
+消息ID: 84
+日期: 2023-05-19T08:35:21+00:00
+文本: #Meme风控只会转移，并不会消失。
+***
+
+***
+消息ID: 83
+日期: 2023-05-18T23:46:00+00:00
+文本: #ChatGPT现在，所有 ChatGPT Plus 用户应当都已获得 Browsing 和 Plugins 的权限了。
+***
+
+***
+消息ID: 81
+日期: 2023-05-18T17:55:09+00:00
+文本: #Tip#ChatGPTChatGPT iOS App 使用的 GPT-4 模型为 GPT-4 (Mobile, V2)，网页版为 GPT-4。与此同时，App 版 GPT-4 (Mobile, V2) 似乎没有 25 次 / 3 小时的限制。
+***
+
+***
+消息ID: 80
+日期: 2023-05-18T16:56:47+00:00
+文本: #App#ChatGPTChatGPT 现在有了官方 iOS App：- 支持 App Store 内购 ChatGPT Plus- 支持动画与触觉反馈- 暂不支持开始插件对话，但是原先网页端启用了插件的对话可以在 App 里继续调用插件- 支持语音识别点击下载（目前仅限美区）：https://apps.apple.com/app/openai-chatgpt/id6448311069
+***
+
+***
+消息ID: 79
+日期: 2023-05-18T14:09:37+00:00
+文本: #Payment#OpenAI实测中国大陆地区的双币卡/全币卡已经可以通过绑定 link（Stripe 的服务）来支付 ChatGPT Plus。方法：1. 使用隐身模式、美国 IP 访问https://link.com2. 使用美国地址、电话注册并绑定银行卡、确认邮箱3. 访问 ChatGPT 订阅 Plus4. 在支付页面使用 link 提交支付信息注意：目前该方法在已经绑定了虚拟卡的账户上测试成功，不保证所有人可用，仅提供一种可能的支付途径。不建议已经可以支付的用户轻易尝试。
+***
+
+***
+消息ID: 78
+日期: 2023-05-18T13:02:23+00:00
+文本: #Update#BobBob 现在支持自定义内置 OpenAI 工具的 prompt，同时支持了 Azure OpenAI。由于该工具第一次在本频道出现，简单介绍一下：Bob 是一个 macOS 上的聚合类翻译工具，允许你通过一次输入发起多个翻译服务并发查询，对比多个结果、选择你喜欢的。
+***
+
+***
+消息ID: 77
+日期: 2023-05-17T12:24:35+00:00
+文本: #Update#ChatGPT现在，ChatGPT 的 GPT-3.5 模型也可以选择插件了（虽然目前除了默认模型以外没有其他选项）。这可能意味着 GPT-3.5 也将获得（早已在发布时预告过的）插件能力。与此同时可以看到前端仍在调整当中，部分元素的样式并不正确。
+图片URL: https://cdn5.cdn-telegram.org/file/JeMKDFIavG39WrQyJtGyB30StJngQoaNTvLns_Sxl6p30bgEUqCBzvTk17ga3DPSh97zjyWIZyY1yJNmyXi7rea-TDKaL2TGCYQjLyLMkcNV9zdr5QxlLKCT8IZ1hCHEf0S7eMDAiwJRBwpp5yU5xP2A4QK1ZJdTTsPc0nDu-FwIA-M9vAIO9YpvRqG55XnB1T5BvOlXqMTlsQiuXRXx4UtiZI6odge1WasFT1GZPVEGQD-hh3fkxstg0MIJ-6l7HOwrprdgIwLaP0sGbxyqDj_7WRcKLIptU1d3wlW5BYCc54SbalGDsFqXpeCv_tDHoXj0Bq99UOojvg2qtWkojQ.jpg
+***
+
+***
+消息ID: 76
+日期: 2023-05-16T19:25:07+00:00
+文本: #Update#ChatGPTChatGPT 刚刚更新了：现在，当 ChatGPT 生成的内容过长、超过了单次回复的 token 限制时，用户可以通过点击继续按钮查看剩余内容。每次继续会消耗一个限额。
+图片URL: https://cdn5.cdn-telegram.org/file/Dojjg-xC6LvjyNc7r-O5j5anYHU9iTyYfTs2zW8J2TFfzkcitFgHH9ZhYsuJVdtQxNkA_3w64Vymkj9ikin5uJly-B-lVvpaKmpE0NPIb3B8vpMuE8IUdr7VlP0KmNjT_4JQBLm-xiI6Q0bnIQ0OjnvzNHlSZmehnI5rqhRqLuwmKGIgx9f8VyhTZtbHaOz-LNuvTr8E-IpGZeaItELrTgXTy_4073VPk5P3wXxyG6p9_MivfIIXgsKd6SfpKSQi8wqp0C2uXSPVLLw1gD79hfYLyPtLprf4-NIq-ZWhRrvinWSRzZF9qK-rL9jjcqf2azJlNT68vWb9prD7ZQohcQ.jpg
+***
+
+***
+消息ID: 75
+日期: 2023-05-16T16:13:30+00:00
+文本: #Gossip#Anthropic#OpenAI关注这个频道的朋友，可能对于 AI 产品本身是更感兴趣的，但是频道主还是想简单分享一下 Anthropic 和 OpenAI 这两家公司的八卦，以辅助本频道的订阅者形成一个全局观。以下内容来自 ChatGPT：Anthropic 是一家专注于人工智能研究的公司，由 OpenAI 的一些前成员创立。这家公司的目标是开发理解和对齐人类价值观的人工智能，同时也关注 AI 的安全问题。Anthropic 的创始人之一是 Dario Amodei，他曾是 OpenAI 的研究总监，并在 OpenAI 工作过多年。另一位创始人是 Daniela Amodei，她也曾是 OpenAI 的研究员。虽然 Anthropic 由一些 OpenAI 的前成员创建，但它和 OpenAI 是两个独立的组织。
+***
+
+***
+消息ID: 74
+日期: 2023-05-16T15:58:47+00:00
+文本: #Partnership#Claude#Anthropic#ZoomAnthropic 刚刚宣布：- Zoom 已对 Anthropic 注资，双方已经展开合作- Claude 将入驻 Zoom，首个产品出现在 Zoom Contact Center 工具中
+***
+
+***
+消息ID: 73
+日期: 2023-05-16T06:42:26+00:00
+文本: #Update#BardBard 今天更新了：- 增强总结能力- 支持显示信息源
+***
+
+***
+消息ID: 72
+日期: 2023-05-15T17:38:44+00:00
+文本: #Update#OpenAIOpenAI 官网现在有了统一的登录入口。看起来确实在发力前端。
+图片URL: https://cdn5.cdn-telegram.org/file/QrbwYFyjV0CRSf_ws5rKGHfCxErBebE_5ORkWToDowXWSd43c-c2LRsrCOQWlOYebwXOKjigfpJUNX0L9MfSo05wdbpzPPnLuw-gLW3ZNneNU0Sd9b_ia7Noyl6_gPeVpRPWIVCEWQKDy8jHtd5t2-lkmUxawio59MBVKv-Ir0JPAybVTX9JYb5pgC13XaqUczb7sngG94KfJcMdDyDKHoJW-LNZc_kGCygdhvhpmOprX6ViKHjAmQzy9iJisYK9vrGsXVEF4UfwR7unvDimr94JyMZ6c2ZvINpiExbWLhTiVIJdbVvIyeB4QMt9omURjzhvYuZPw_lMfV9_lKjBqQ.jpg
+***
+
+***
+消息ID: 71
+日期: 2023-05-13T17:52:44+00:00
+文本: #Tips#Plugin#ChatGPT如果你已经获得了 ChatGPT 的插件商店，但是不知道这些插件有什么用、该选哪些，这里是一些建议。通用插件- Wolfram：做计算、查资料- Zapier：执行自动化操作，支持 5000+ 的服务信息导入与查询- ChatWithPDF：导入 PDF 并提问- BizToc：查询商业、金融新闻- VoxScript：导入 YouTube 视频的脚本- ScholarAI：查文献- Cloudflare Radar：查 Cloudflare 的观察、预警信息- One Word Domains：查域名价格- Likewise：影视推荐- Coupert：查优惠- edX：查在线课程实用工具- WebPilot：访问互联网- Speechki：文字转语音- Speak：学语言- Shimmer: Nutrition Coach：跟踪饮食健康
+***
+
+***
+消息ID: 70
+日期: 2023-05-13T17:51:58+00:00
+文本: 这个频道还没有满月，就已经有 300 个订阅用户了。感谢大家🥰。
+***
+
+***
+消息ID: 69
+日期: 2023-05-13T10:17:08+00:00
+文本: #AppAMA：免费、兼容、够用AMA 是一款目前完全免费且提供较高兼容性和基础功能的 App，它具有以下特点：- 支持 OpenAI 和 Azure 的 API- 可自定义 URL- 提供 Prompt 库- 支持代码高亮、一键复制- 目前完全免费- 轻量：iOS 版不到 10 MB（截止到本条发布）- 兼容 iOS/iPadOS 13.6、macOS 12.0（需要 M 芯片）- 兼容 Android/安卓访问其官网以下载：https://bytemyth.com/ama
+图片URL: https://cdn5.cdn-telegram.org/file/IeO61nkeHDAh_wTyv5TEJkNKCR3sRRESiwY5Wnt_QZNRft2cS9AJ-ZcBGZITv-cdcwX7arMKP34oh2yYXwK9rbkdoaK0JmDPi-0tHfRvurSuR82umkg0XBTeJnxFTO8RAimBae47QE4I8GGmmqMu55kxH5dSzbZMhVx5vc2faQW4qgvsagrCAPos3mDqH8BVWMRXtRziXBX5j9CGc5tvCdcLBPrTkLLMUh1P4cEKLopr3V8ai65xA2lnOsOjG-NwDC9t8BB7fnGVEEFmitpm09UzlHQ8zM4joqGckHfHA_Qo6adF_t_uMNFUlkk-_D1bS7N9-9Dxqvtrb_VLsfukYA.jpg
+***
+
+***
+消息ID: 68
+日期: 2023-05-12T17:55:11+00:00
+文本: #Update#OpenAI#Waitlist#ChatGPT下周开始，OpenAI 会向所有的 Plus 订阅用户提供 Web Browsing 和 Plugins 商店。与此同时，OpenAI 进一步解释了他们的功能发布流程：- Alpha 阶段：少部分已申请的 Plus 用户获得- Beta 阶段：更多已申请的 Plus 用户获得- 正式版：所有 ChatGPT 用户获得已获得相应权限的 Plus 订阅用户可以在设置里开关想要的功能。
+***
+
+***
+消息ID: 67
+日期: 2023-05-12T17:26:38+00:00
+文本: #Update#ChatGPT现在，已经取得相应权限的 Plus 订阅用户可以开始自定义启用哪些 Beta Feature。
+图片URL: https://cdn5.cdn-telegram.org/file/dI8b3Kqpz-mqDgDWDzhSxloIvicp5ll0tLygAg2w9k_U5thdbat2GUtEts2m5viy1xc9bhrIp43wSFrThtKJmHoooVtMUFGAGYDlpGtMd9avSVFoflJ2LaiDwEPkdTC46oNc3LfwZFY0-AEG4hmqwunb8eTpr8fhrUqH1nwxpjcCA8BT6wfdhgCXXCJwPFhUEXTt-RhegR0Q-eF0YQimZh8zEd5Ma-aQTCY_Y3-AhVUBNy_NOcf4IKcH9w2iGh3Y_93HFfhH8MscbUzwTUG003EJ7Y5QU5Dyd2z0PfGF6sqAJrKkEOz2hef0QCSI5ioq_ZUy943KWzoUqKz8G_it2g.jpg
+***
+
+***
+消息ID: 66
+日期: 2023-05-12T17:18:30+00:00
+文本: #EasterEgg#ChatGPT彩蛋（快速刷新可见）
+图片URL: https://cdn5.cdn-telegram.org/file/pkJZBIrcS6x-sTqXQn9LCd43b928PPHhQGjZdY5eBxlJYGAPwPTXNZoj7P-b6lsvrVxtbUq80LYpkBNpCgg_P35UZe5BKG2Ckk7o9t9ouIVs5MLx-X1NiceNHd6eE4R8SJ_x-af5I45ZdMnzLc-ZBFEFek8yHFAe2SgxNh8xu3dQtO4K4TETGgNkOn6NSsui9s-eV4eK_12HiLlqoVthCRtFmp9XTRvV1sb5wh5IpX5p5FRZ9K11VXm28Tz6TvZepyjKIjgPKHhOnrt3g0_0L3IDAMupkd5yRZ3craxa5QIhmtn7PfcnyrNd34gSBhtPBnt1SoBdWhiCHY6fn64x4Q.jpg
+***
+
+***
+消息ID: 65
+日期: 2023-05-12T17:10:16+00:00
+文本: #Update#ChatGPTChatGPT 刚刚更新了：- 前端更新（如图）- Plus 用户每小时现在可以使用 GPT-4 30 次（原先每 3 小时仅可使用 25 次）- Browsing 和 Plugins 进入 Beta 阶段更新：很遗憾，现在限制回到了原先的每 3 小时仅可使用 25 次。
+图片URL: https://cdn5.cdn-telegram.org/file/mvjDTnwdF5KyhcvXuOZzp1oKcho8SkC0Q9vJLEo9Hb-fVlzSwRm17IjClzjVaa-7mmA3nxU9VboOx9xiK5Fxif9IfnFhGH3kSQM4MXfM4_ZmYw-9d9hZS_Ibx1ucnOb6eVKg2IEZmGIB6em6_nvrBuY685wLplk92vY5lFtCzKGXNEs18EgvGGKAyN4vtom4qo8vfpRBBvPdrUSjP9bdwfeHNXLzYWHr_9XdMqUEqqHTkIKXsODewPBYSweVbOACu6D1JibFoUuEc2A2X3tsoANKmlgk_a9lSZuFYS2oXCTZeTw7zlC7qLxihBjshBcZ30d2Nenqu96LdARIj6WYcQ.jpg
+***
+
+***
+消息ID: 64
+日期: 2023-05-12T03:17:51+00:00
+文本: #Update#Plugin#ChatGPTChatGPT Plugin 今天做了一些调整：- 部分已申请用户获得了插件商店的权限- Web Browsing (GPT-4) 插件现已更名为 Web Browsing，并脱离了 Alpha 阶段- 取消了原有的 Default (GPT-3.5) with browsing- Code Interpreter 也采用 GPT-4 模型- 所有采用 GPT-4 模型的功能统一限速为 25 次每 3 小时这也意味着，对于 Plus 订阅用户来说，目前除了 Default (GPT-3.5) 以外，所有模型均为 GPT-4。
+***
+
+***
+消息ID: 63
+日期: 2023-05-11T17:12:05+00:00
+文本: #Update#ClaudeClaude 现在支持通过 API 实现单次 100K 的上下文。是的，100K。
+***
+
+***
+消息ID: 62
+日期: 2023-05-10T16:54:36+00:00
+文本: #Update#BardBard 发布了 5 月 10 日更新：- 由 PaLM 2 驱动- 支持日语、韩语- 支持一键导出到 Google Docs 和 Gmail- 支持深色模式
+***
+
+***
+消息ID: 61
+日期: 2023-05-10T08:20:02+00:00
+文本: #Tip#Plugin#CodeInterpreter在使用 Code Interpreter 插件的时候，ChatGPT 可能会忘记自己是个语言模型，你需要提醒它/TA。在这个例子中，我把一个英文字幕上传到 Code Interpreter 里，让它翻译好给我下载，它测试了一下决定用 Google Translate 但是它没法联网，于是告诉我无法执行。这时我提醒它：你是个语言模型啊喂！你不可以先把 srt 读取出来翻译好然后再整合成 srt 文件吗？它立刻照做并生成了一个翻译好了的 srt 文件，我测试了一下是完全可用的。
+图片URL: https://cdn5.cdn-telegram.org/file/HIDPUT7-NoJN41RGo1JD8GlXYXNGudEirOjjCsf9DgjkuY3VXlR0yt5fomotO6AAw2jE60y7aJ9vQJruimgFLoQdr8JrkG5w9FVXzLnoPO_MlmZE7F9J5FxtoPkfApHAtVW_sCY2oe9X35FiAVofzyc8UQmmQZ9PeXYtW2uO-B4KmGr5sjhCYYTPp4NOESaQWa_KS3R1D1mzJet0Xhx5lvq9sifh5qbVCrjHs8cxMufYJe9BPTvw82DwdnHoqUGS6JxMyn5QbgbrZTBobmqcuQa9a7bwz4On205Yg7-mISXhBO-XIGnfrnBYxDIuFUTYAEi-DUx9JGZFSk0Sugavyw.jpg
+***
+
+***
+消息ID: 60
+日期: 2023-05-09T02:31:00+00:00
+文本: #Channel其实下面这个关注 AI 技术的频道也是不错的，但不知道为什么频道主停更了。https://t.me/gainotes
+***
+
+***
+消息ID: 59
+日期: 2023-05-06T14:45:52+00:00
+文本: #Payment#OpenAI解决 OpenAI API Invoice Payment Failed 的一种方法最近如果你收到了 OpenAI 发来的以「OpenAI API Invoice Payment Failed」为主题的邮件，那么可以尝试以下方法解决：1.重要：使用一个干净的 IP（比如 WARP 的 IPv6）访问https://platform.openai.com/account/billing/history2. 找到那个没有支付成功的订单，点击 View3. 重新输入你的卡的信息，尝试再次支付通常情况下，上述步骤可以解决，多位朋友已经反馈了成功，如果依然不成功，目前没有更好的解决方法。
+***
+
+***
+消息ID: 58
+日期: 2023-05-06T08:42:37+00:00
+文本: #Update#BardBard 开始提供 Google Workspace 账户的访问权限现在开始，Google Workspace 管理员可以启用 Bard，允许他们的用户使用 Workspace 帐户访问 Bard。FYI：Bard 是 Google 旗下的大语言模型聊天 AI，目前仅支持英文。
+***
+
+***
+消息ID: 57
+日期: 2023-05-05T19:53:53+00:00
+文本: #Update#ChatGPTChatGPT 刚刚更新了设置界面的前端设计。
+图片URL: https://cdn5.cdn-telegram.org/file/Ljd2rSBMPU1zwhHXjnOm25o8L92yUr-j6Afne4DTkf-lfV-ULm9JCyu55_KMsvnJugWRfDnlOzFdYC3Cgvb1UUO3DCIY23Iwso4e6gh-k_UTfhHPeabS7HI89vExlfU2H0XUNwdP8a1hgqC-cdAyI3THPDS64_zIchT-UB6Opz_jlDgQFTwN_pNRzTA5iJjf8kMYEN4QhRl5TZfQQe47cpGP2pPaRs1pAmm-3Nsl1PPdXCybE57M8h23DXDhyP6IKdAj4Ng2wvkQMHAGbcDlmhiNEge7xj4b3X5VIf-VjPjKFKIHfcgrq_0reG2K_T70nKwZunzk86e1CaWPhIwDzg.jpg
+***
+
+***
+消息ID: 56
+日期: 2023-05-05T17:01:56+00:00
+文本: #Update#ChatGPT少部分用户已经可以开启 ChatGPT 的两步验证功能来保护自己的账户。感觉自己的账号永远在排队的路上😇。Source
+***
+
+***
+消息ID: 55
+日期: 2023-05-05T07:29:04+00:00
+文本: #App#TalkyTalky，值得一试的另一款 OpenAI API 客户端简单介绍一下：-特色：可以对会话自定义 emoji Logo，更加直观、个性化- 支持 OpenAI API，可自定义 API URL- 提供丰富且友好的调节选项（基础、专业两个模式可选）- 可自定义发送消息的快捷键- 支持 iCloud 同步目前该 App 在 TF 测试阶段，免费。（TF 如果过期了可以关注作者的Twitter动态）PS：该 App 作者也是 HiCoffee、HiWater 的作者。
+***
+
+***
+消息ID: 54
+日期: 2023-05-05T03:25:11+00:00
+文本: #Meme高中同学聚会Source: Alphabet CEO Sundar Pichai, left, and OpenAI CEO Sam Altman arrive to the White House for a meeting with Vice President Kamala Harris on artificial intelligence, on May 4, 2023, in Washington, by EVAN VUCCI (AP).
+图片URL: https://cdn5.cdn-telegram.org/file/ncoVugUDupM0n-_WpcLpFcOSr_fzmlM-PQV_yuUns_Mf4mQBpX7YESw2cuowdvwHGC2vF7xwjW06tXzWFDESjmfnGhNDTkcAUuwSyrrTHNtoZERFTUeKuSvx4L0QoArRrietlgSR6FccRJe3a6z_L2taE4bFhV6cXb3F0vsvprda7mO3v3zXuuz-mkYNDwOcWfejTh7BWQqKe9wOHmYgn3kZjxfry5WnftYmFjoI0hrM7gnGQ6oZ_ZhOGjU2vumDvWUoFeaDGS5CEoxjv62Tz4ASLo4AcQvTAMLS-rteUXD2vDmEgQvptc1lyoxFbZrSf4D8saMhWgdoWI86Sos4wg.jpg
+***
+
+***
+消息ID: 53
+日期: 2023-05-04T16:49:19+00:00
+文本: #Update#BingAIBingAI 刚刚宣布了几项重大更新：- 取消了 Waitlist，人人享有 AI- 很快将引入多模态支持- Edge 内的 Bing Chat 将支持会话历史记录，未来还将支持从之前的会话中获取信息- BingAI 将成为平台，支持第三方插件「人人享有 AI」非官方话术，仅频道主的一点即兴发挥。
+***
+
+***
+消息ID: 52
+日期: 2023-05-04T08:21:04+00:00
+文本: #Preview#ChatGPTChatGPT 正在内测原生的对话分享功能来源：https://twitter.com/wongmjane/status/1653841843828961281
+***
+
+***
+消息ID: 51
+日期: 2023-05-04T01:44:18+00:00
+文本: #Update#ChatGPTChatGPT 刚刚发布了 5 月 3 日更新除了本频道之前介绍过的：-对话历史可关闭-ChatGPT Bussiness 即将到来还有：- Legacy GPT-3.5 模型将在 5 月 10 日下架
+***
+
+***
+消息ID: 50
+日期: 2023-05-03T03:21:51+00:00
+文本: #Update#ChatGPT#PluginChatGPT Plugin Store 最近增加了一些新的插件。来源与详情请参考：https://twitter.com/officiallogank/status/1653554415624769537可以预见，在不久的将来（可能就是几个月内），ChatGPT 将能通过插件利用互联网的主流服务来输出内容/执行任务（毕竟 Zapier 早早就接入了）。换言之，ChatGPT 将会成为一个新的入口。
+***
+
+***
+消息ID: 49
+日期: 2023-05-03T02:37:09+00:00
+文本: #Update#ChatGPT#Plugin现在，该功能已经改名为 Web Browsing (GPT-4)。各项纸面能力已经和 GPT-4 相同，并且依然不限速。
+图片URL: https://cdn5.cdn-telegram.org/file/d5hU5-0A3KaYW6cdm6oFMXPQ6CYy-KgtWBc_yQxPWRqfefAnR-WrH32hpSkNNgf2fc1ugj-67TYIpOunXij1H9IPnDrSsQUmy3GA3VY9sLUas21vawrFdFaQnt8oRCzPUvsCbzG1jB5XWW2p3rJcSBWBBjcHdOmTG4K77JE6YpjfxcqRAE7Rans4bb6OBtXQoNPfll7nxSGm2qYBHZr-oaPkQH2kfZqoSjCXklj9OPm0QuoEyNgCX2qZYK-FuTZIfqEarePmrmqVw6HaquBKbY7rAqNf8qyZ6fe34tKI8oGqasyNjL-u6LZ009BY3aBvR0qXBFvWOcAElnrGDe6whg.jpg
+***
+
+***
+消息ID: 47
+日期: 2023-05-02T12:11:21+00:00
+文本: #Principle本频道的内容发布具有以下原则：1. 无利益相关，图一乐，频道主不富有，但不指着这个挣钱2. 主观筛选，客观表达，不会什么东西都发，初期会探索一阵，后期会稳定注：会有一些 AI 相关的 meme，这部分纯主观。3. 严格遵循中英文混合排版规范（频道主有强迫症）
+***
+
+***
+消息ID: 46
+日期: 2023-05-02T12:03:35+00:00
+文本: #Update#App#AssisChatAssisChatv1.5 现已原生支持 macOS 13.0 及以上版本（iOS 支持 15.0 及以上版本）。由于该 App 在本频道第一次提及，简单介绍一下它的特点：1. 支持 OpenAI API 和 Claude API，均可自定义域名2. 目前基本功能免费，可以通过内购给作者买杯咖啡（小杯、中杯、大杯）
+***
+
+***
+消息ID: 45
+日期: 2023-05-02T07:53:29+00:00
+文本: #Tutorial#OpenAI如何第一时间知道 OpenAI 的服务是不是不可用？1. 访问https://status.openai.com2. 点击 Subscribe，输入自己的邮箱地址3. 进入邮箱确认确认成功后就可以第一时间收到服务不可用的邮件通知了。需要提醒的是，有时候 OpenAI 明明出问题了，但是自己却不标记为故障。（比如之前历史记录不可用）
+***
+
+***
+消息ID: 44
+日期: 2023-05-01T12:36:20+00:00
+文本: #Meme每天打开 ChatGPT 的我：先看看插件权限到齐没。还是只有 Browsing？可恶（摔
+***
+
+***
+消息ID: 43
+日期: 
+文本: #Tip#ChatGPT#PluginGPT-4 版 Browsing 并不含完整的 GPT-4可以看到在官方提供的参数示意图上，GPT-4 版的 Browsing 和 GPT-3.5 版的没有区别。（所以 GPT-4 版 Browsing 不限量使用也就可以理解了）
+***
+
+***
+消息ID: 42
+日期: 2023-04-28T16:25:32+00:00
+文本: #Update#ChatGPT#Plugin过去 24 小时里，ChatGPT 有了一些新变化Plugin更多的 Plus 订户获得了丰富的插件功能：- 有人拿到了包括第三方插件在内的所有插件权限- 有人拿到了一部分插件前端历史对话现在会按照相对日期整理（今天、昨天、7 天以内…）。访问现在，ChatGPT 再次支持通过 URL 指定访问的模型。（在一天前这个功能不可用）
+***
+
+***
+消息ID: 41
+日期: 2023-04-28T08:40:13+00:00
+文本: #Plugin#ChatGPT#API目前关于 ChatGPT Plugin 的已知信息分类官方插件：目前有 Browsing、Code Interpreter第三方插件：目前已经有不少，可以前往官网查看可用人群- 目前可用：ChatGPT Plus 订阅用户（Browsing 已经从昨天开始成为了 Plus 用户的默认模型）、少部分有权限的开发者- 未来可用：ChatGPT 用户、API 用户收费模式尚无说明，本频道有一些推测
+***
+
+***
+消息ID: 40
+日期: 2023-04-28T01:43:43+00:00
+文本: #OpenAI#API今天，OpenAI 向大量已申请用户发放了 GPT-4 的 API 资格。但是使用时还是提醒大家留意价格。
+***
+
+***
+消息ID: 39
+日期: 2023-04-28T01:29:51+00:00
+文本: #FreePerplexity AI现在可以在检索信息时使用免费的 GPT-4 额度，目前每 4 个小时可以使用 GPT-4 20 次。
+***
+
+***
+消息ID: 38
+日期: 2023-04-27T04:16:45+00:00
+文本: #Channel知名 OpenAI API 衍生客户端 OpenCat 现在拥有了官方频道。https://t.me/opencatd
+***
+
+***
+消息ID: 37
+日期: 2023-04-27T03:51:45+00:00
+文本: #Update#ChatGPT现在，Browsing 插件向更多 Plus 用户开放了。并且，已经成为了默认首选的模型。
+图片URL: https://cdn5.cdn-telegram.org/file/jL8o5Tu6PsaAisXGJIimOhVTttMPVvbvuGDZqryRkEgoplwtJlSLNYH1BdoeiJ0rOLoNwfADSpDnuBbjRgWpTGeNRKmtkluIv5B1ukFhDvyRbUKTaHQQ-JZGL2Lg2DbNF2teM7hWcyj8FM7KxF6ik5_cjHCszd7-fJttjW_FOf6bQgTzG6C3slU6Up7P8RKzsrakvloABoNRbv92_FTuPUkM_lQyqr4iLxEX9Pe_QEqGQak8k_G84GvlLbrKRYlwQJ9-UpwwLkr_EMOo-_sSsVYPSRLXh69Zfi9VlOsrhYHJt7OEKJNLtuJb3bZF3MbNu3fvI33r0lauS6WL8FPz8Q.jpg
+***
+
+***
+消息ID: 36
+日期: 2023-04-25T19:30:32+00:00
+文本: #ChatGPTSam Altman 表示：ChatGPT Business 将在未来几个月内到来。来源
+***
+
+***
+消息ID: 35
+日期: 2023-04-25T17:12:17+00:00
+文本: #Update#ChatGPT现在，你可以阻止 OpenAI 使用你的 ChatGPT 对话记录来训练模型了。坏消息是，现在关闭了对话记录功能之后就无法使用 Plugins 了。官方文档
+***
+
+***
+消息ID: 34
+日期: 2023-04-25T13:35:57+00:00
+文本: #GPT-4#OpenAI浅算一下 GPT-4 的 API 大概有多贵，给没考虑过的朋友一个感性的认识已知：一次简单的 500 字的中文回复，使用官方的 Tokenizer 计算为大约 1K Token，根据目前 GPT-4 8K 的 API 定价，约为 0.06 USD。计算可得，当每天提问 25 次，每次仅仅 500 字回复的情况下，一个月需要消耗：25 * 0.06 * 30 =45 USD这里并没有考虑 prompt 的消耗、500 字回复不足以完成一个完整的答案的情况（对于啰嗦的 GPT-4 来说很常见）。相比之下，ChatGPT Plus 订阅的价格为一个月20 USD，每 3 小时就可以问 25 次。2023-07-21 更新：现在 Plus 用户每 3 小时可以问 50 次。
+***
+
+***
+消息ID: 33
+日期: 2023-04-25T09:14:46+00:00
+文本: #Update#OpenCatOpenCat for iOS v1.2.2 修复了之前部分机型存在的键盘扩展的高度问题，现在可以更新。
+***
+
+***
+消息ID: 32
+日期: 2023-04-25T08:00:24+00:00
+文本: #Update#OpenAI现在，OpenAI 的后台支持在创建 API Key 之后重命名 Key 了（此前仅支持在创建时命名）。
+***
+
+***
+消息ID: 31
+日期: 2023-04-24T10:23:13+00:00
+文本: #Tip#OpenCatmacOS 版 OpenCat 的换行快捷键option/ctrl + enter
+***
+
+***
+消息ID: 30
+日期: 2023-04-24T03:32:06+00:00
+文本: #Outage #ChatGPT   新事件：调查中  我们正在调查 ChatGPT 的重大故障。  发布时间 4 月 23 日，20:23 PDT  以上内容来自 OpenAI 官方的服务状态报告。  目前 ChatGPT 完全不可用。
+***
+
+***
+消息ID: 29
+日期: 2023-04-24T03:27:52+00:00
+文本: #Outage#ChatGPT新事件：调查中我们正在调查 ChatGPT 的重大故障。发布时间4 月 23 日，20:23 PDT以上内容来自 OpenAI 官方的服务状态报告。目前 ChatGPT 完全不可用。
+***
+
+***
+消息ID: 28
+日期: 2023-04-24T02:11:36+00:00
+文本: #Waitlist#LeonardoLeonardo.Ai，另一款 AI 图像生成工具现在开始排队现在申请→入口
+***
+
+***
+消息ID: 27
+日期: 2023-04-23T11:26:40+00:00
+文本: #App#Whisper#AikoAiko，一个基于 Whisper 的免费本地语音转文字 App支持 iOS 16.4、macOS 13.3 及更新版本。注意：macOS 版需要至少 16GB 内存。（Aiko 是个不错的工具，不过还是 OpenAI 官方的 API 来得方便省事）点击查看 App Store 页面
+***
+
+***
+消息ID: 26
+日期: 2023-04-23T08:33:13+00:00
+文本: #XmindXmind 今日宣布了将推出 AI 辅助功能 Xmind Copilot其具备以下功能：- One-liner : 一句话生成思维导图- Inspire Me：一键给你灵感- Outliner : 一键总结文章思路- Ghostwriter : 一键帮你高效成文目前需要排队。详情可阅读→官方推送
+***
+
+***
+消息ID: 25
+日期: 2023-04-23T08:15:18+00:00
+文本: #Update #Feature #OpenCat   OpenCat for macOS v1.2.1 提供了一项重要更新：云服务  该服务提供以下功能：  1. 解锁所有的Pro 功能 2. 私有的 API 系统，帮助用户访问 GPT 和 Whisper API（GPT 已上线，现在可用） 3. Azure TTS 功能（待上线）  国区（最便宜）目前的定价：  - 按月订阅，12 元 - 按年订阅，98 元
+***
+
+***
+消息ID: 24
+日期: 2023-04-22T14:28:23+00:00
+文本: #Update#ChatGPTChatGPT 网页版现在支持一键复制。
+图片URL: https://cdn5.cdn-telegram.org/file/CSyNHDdOfPNKeHwT5wNNtG5uPdH_XFoogGR5SIuIBuwnKpXGRyCDjnNBlttJ9GLXzmF7iVUzzq9Q2Gl-G6jDdhqWbsYWR3196RNBO5EuCrw7V8RsdDTiSUDHw0FxIChbkyICcTucBTpqY6rlHYm-A0ogQVYhjX10VCnc2kqmLZgk3AwYbiC0CjZfJhKL2pmZCvN3B892UHumFfU_I0KaDP4bAEWzjqyMsgdq1vg1bnk3TCAinKaEmXr3InbUTYdTKQLpu9jS9yUWEGu7joDdUE5R1JzytKLzYt7SHAsC2N_mFgM7qZJT-65h95fALbCqthOHU_c0znh1K2IfMVLfsQ.jpg
+***
+
+***
+消息ID: 23
+日期: 2023-04-22T12:33:09+00:00
+文本: #OpenCat关于 OpenCat 云服务，目前的已知信息1. 截至 v1.2.1 版本，OpenCat 的策略是优先消耗你已有的 OpenAI API，所以如果你想优先使用 OpenCat 的额度，需要先删除自己的 OpenAI API Token2.订阅方案、额度限制未最终敲定，目前的额度限制为同价限制，即如果你购买的月度订阅为 1.99 USD，则你的可用额度也是 1.99 USD（用量可在 App 内查看）3. 目前不提供 GPT-4（以上价格为首发价格，目前价格已调整）
+***
+
+***
+消息ID: 22
+日期: 2023-04-22T12:17:32+00:00
+文本: #Update #Feature #OpenCat   OpenCat for macOS v1.2.1 提供了一项重要更新：云服务  该服务提供以下功能：  1. 解锁所有的Pro 功能 2. 私有的 API 系统，帮助用户访问 GPT 和 Whisper API（GPT 已上线，现在可用） 3. Azure TTS 功能（待上线）  国区（最便宜）目前的定价：  - 按月订阅，12 元 - 按年订阅，98 元
+***
+
+***
+消息ID: 20
+日期: 2023-04-22T07:44:08+00:00
+文本: #Update#Feature#OpenCatOpenCat for macOS v1.2.1 提供了一项重要更新：云服务该服务提供以下功能：1. 解锁所有的Pro 功能2. 私有的 API 系统，帮助用户访问 GPT 和 Whisper API（GPT 已上线，现在可用）3. Azure TTS 功能（待上线）国区（最便宜）目前的定价：- 按月订阅，12 元- 按年订阅，98 元
+***
+
+***
+消息ID: 19
+日期: 2023-04-21T18:39:19+00:00
+文本: #Update#BardBard 更新：现在终于支持辅助写代码了更新内容（由 GPT-4 翻译）：2023.04.21编程帮助内容：Bard 现在可以帮助您编写超过 20 种编程语言的代码。当 Bard 生成 Python 代码时，您还可以直接在 Google Colab 中导出和测试代码。尝试向 Bard 请教关于如 C++、Go、Java、JavaScript、Python、TypeScript 以及 Google Sheets 函数等编程语言的帮助。原因：无论是初学者还是经验丰富的工程师，所有程度的编程人员都可以使用 Bard 来帮助编写代码，无论是生成和导出代码、调试代码还是解释代码的工作原理。在依赖代码之前，请谨慎使用并仔细测试和审查所有代码，以查找错误、漏洞和潜在的安全隐患。为草稿增加更多多样性内容：当您查看其他草稿时，现在将看到更多彼此不同的选项。原因：更广泛、更独特的草稿范围可以帮助拓展您的创意探索。
+***
+
+***
+消息ID: 18
+日期: 2023-04-21T09:25:04+00:00
+文本: #Edge#Extension#ChatGPT给你的 ChatGPT 一个真实的人声方法：1. 使用 Edge 浏览器2. 安装这个插件并启用3. 访问 ChatGPT 网页版或刷新已加载的网页即可开始使用PS：设置里可以选择你喜欢的声音、调速。
+图片URL: https://cdn5.cdn-telegram.org/file/PHXDQpqQ0k0QYjCliUypHadwtK1n9lsNL7ahBLC4EGn9hif1i3UvTDZhXlFun55ONNacJL0SPYPG6kbi3X1r4aTzP2qlz2um6KZTz8DZLezyBrIabdSkOmSVQ3ClLwzIZPERF51oXh0g6SRVIFSpYinsNnxA91h80Y3QqX2PY19p1_IQI5FXnU_ei7RQygsUrUYzd1IgbRPpTiA9vxRePmJ6ho-jrim1NiS-rXs0Y3WvhxnTdVejVEEX2MW4UkkVdx0cws4LBGsCFPrFmorKawtuNLDGvj9yiLAwte5ekuUEpo2jHl7s0j_ygSOeJLSdBKfEecntLPCsEcotVYqvjg.jpg
+***
+
+***
+消息ID: 17
+日期: 2023-04-21T02:10:47+00:00
+文本: #Update#ChatGPTChatGPT 刚刚更新了前端设计：- 可以显示头像、昵称- 将先前的各选项并入二级菜单
+图片URL: https://cdn5.cdn-telegram.org/file/eKxVkcK96MF2rSpBFD9x6lKi223i5-790vaw6NvhnrrCDygNWeBx0MqJAyiEB0Q4FHpyjemCXDn0qqeQlBff6GiMpzgSpGFoacAGmqutBX72o6Tw0iEj760LNcaw--fRTQRLmYUZeXSq3Z2mab4YcMRDKU_yI4HVNXfPAUHHE-kAjTqf9T8fARpwWIUloTpzfzAK5IG1XUiOZQ1PLkyH8x3Ia-6wNdxPr2gMkhbI-IdNC8JzO-CrOW3CvQ2UOkOa07NIgBK8JpukDmNsFPWCeLA2okME2JJ52FCIrW5KGA9qE8c07v5eYe7bwAfl14m8rwgD7niu6Obs9Q3FAUMYpQ.jpg
+***
+
+***
+消息ID: 16
+日期: 2023-04-21T01:19:25+00:00
+文本: AI Copilotpinned «#Collection #OpenAI   入门  1. 区分 OpenAI API 和 ChatGPT  注册与支付  1. 如何尽最大可能避免支付过程中被拒绝？ 2. 我没有非大陆和港区银行卡，如何支付 OpenAI API 和 ChatGPT Plus？ 3. 如何得到一个合理的美国免税州（免税州列表请 Google）地址？  使用  1. OpenAI 的 API 速度慢怎么办？ 2. API 的 GPT-4 和 ChatGPT 的 GPT-4 是一个东西吗？»
+***
+
+***
+消息ID: 15
+日期: 2023-04-21T01:19:19+00:00
+文本: #Collection#OpenAI入门1.区分 OpenAI API 和 ChatGPT注册与支付1.如何尽最大可能避免支付过程中被拒绝？2.我没有非大陆和港区银行卡，如何支付OpenAI API和ChatGPT Plus？3.如何得到一个合理的美国免税州（免税州列表请Google）地址？使用1.OpenAI的API速度慢怎么办？2.API的GPT-4和ChatGPT的GPT-4 是一个东西吗？
+***
+
+***
+消息ID: 14
+日期: 2023-04-20T08:29:48+00:00
+文本: #Fix#ChatGPTChatGPT 刚刚修复了一处网页端的不合理设计原先网页端能设置外观为深色或浅色模式，然而一旦你设置之后，就不会随系统的外观改变。现在有了跟随系统改变的选项。
+图片URL: https://cdn5.cdn-telegram.org/file/IvGZcV90qNeBpIDYq9MDoe77EAR5lsOCT61TinyWnrk8JvalbTPrftCwesj6-hA11JBqE1fRvlCRJDJnDxn_xmkuj9X6JZ05b5N6yLYdOz2Q5vkZTxbE2JOO351EKwxzx4CBcHcZcYm9da6WEGVCR-HzsFnLzQpoJglwzkGLHZDWa_ICPp35GbZV6pI57KKLsxn7PfiTzEstRpVQHNskr14Mj3Zp3i3Z0j-3yU9TbwO8vzucJJip3OP3f2jM-sUp3OiLZpBCwFib3ImPtpnh5NB8jvNNFAwl7JcV9Zo4Iq4PG1ShML-meVShoB4gQKiL7mYFJKFzfGz8znTBRSeQNw.jpg
+***
+
+***
+消息ID: 13
+日期: 2023-04-20T07:47:46+00:00
+文本: #Hotfix#OpenCat解决 OpenCat for macOS v1.1.17 「无法连接到服务器」错误的方法1. 进入设置2. 自定义 API域名里填写：api.openai.com3. 勾选「发送 API Key」4. 再次尝试验证，如有问题请检查网络PS：针对该问题的修复版本作者已提交审核，理论上更新的版本无需上述操作。更新：v1.1.18 版本已过审，请前往 App Store 更新。
+***
+
+***
+消息ID: 12
+日期: 2023-04-20T07:12:28+00:00
+文本: #ChatGPT#Plugins介绍一下目前我对 ChatGPT Plugins 的了解这个产品发布有段时间了，但是中文圈里讨论的人不多，毕竟很多人还卡在注册和支付阶段。考虑到 ChatGPT Plugins 最终一定会惠及所有订阅用户，前瞻性地分享一下是有意义的。ChatGPT Plugins 目前是需要申请的，申请条件：1. 你需要有有效的 ChatGPT Plus 订阅2.你需要到这个页面填写表格ChatGPT Plugins 目前能做什么？目前，能拿到 Plugins 权限的用户分为这三种情况：1. Browsing：可以让 ChatGPT 访问互联网获取信息2. Code Interpreter：可以让 ChatGPT 在沙盒环境里用 Python 做一些应用题3. Plugins Store：第三方 Plugins 的入口，提供丰富的第三方插件可供选择根据目前网友们的分享，三者基本上每个人只能拿到其中一种，并且无法选择。ChatGPT Plugins 未来可能采用什么收费模式？以下纯属个人推测。首先，我们排除纯粹免费的模式，难不成让第三方开发者用爱发电么？我觉得合理的模式包括：1. 官方插件对于 Plus 用户/普通用户免费，第三方插件单独计费，价格由开发者自己决定2. 官方插件对于 Plus 用户/普通用户免费，第三方插件提供更贵的套餐订阅使用3. 官方插件对于普通用户免费，Plus 用户获得一定数量的第三方插件使用次数权限，解锁更多次数要加钱
+***
+
+***
+消息ID: 11
+日期: 2023-04-19T13:31:33+00:00
+文本: #Tips#ChatGPT#NewBing#Claude关于改善中文提问的结果质量，我有一个小技巧：对于可以联网的 AI（包括 New Bing 和 使用了 Browsing 插件的 ChatGPT），在每次 prompt 最后加上「请搜索英文内容然后用中文回答我」，不服从于这个指令的，采取英文提问。这么做是因为， 目前中文互联网上有价值的信息很少，这些可以联网的 AI 会直接访问并参考充满了劣质信息和软广的所谓的「知识问答」网站，从而污染答案。对于无法联网的 AI，目前没有发现使用中文提问会造成明显的质量下降。这也是为什么你会发现，明明 New Bing 也是由 GPT-4 驱动，但是哪怕在早期，结果质量也比不上 ChatGPT 不联网的版本。
+***
+
+***
+消息ID: 10
+日期: 2023-04-19T09:24:42+00:00
+文本: #OpenAI#ChatGPTAPI 的 GPT-4 和 ChatGPT 的 GPT-4 是一个东西吗？不是。获取方式API 的 GPT-4 需要排队获取（申请入口），ChatGPT 的 GPT-4 仅需订阅（20 USD/月的）Plus 就能立刻获得。两者是独立的体系，需要分别获得权限，API 的 GPT-4 排队速度是否受到 Plus 订阅状态的影响目前未知，个人认为没有。如果你之前没有申请 API，那么现在申请的意义可能不大了，排队的人非常多，除非进入 Public Beta 阶段，应该不会轮到新申请的。特性API 版本提供 8K 和 32K Token 两个版本，而目前 ChatGPT 的 GPT-4 并不提供 32K。
+***
+
+***
+消息ID: 9
+日期: 2023-04-19T08:56:08+00:00
+文本: #ClaudeClaude，ChatGPT 的平替。如果你厌倦了 ChatGPT 繁琐的支付方式、夸张的风控，那么 Claude 几乎是你目前唯一可选的免费平替。使用方法：（仅推荐 Slack）1. 安装并注册 Slack2. 在你的工作组里点击添加 App3. 查找 Claude 并添加现在你可以直接与 Claude 对话了。
+***
+
+***
+消息ID: 8
+日期: 2023-04-19T08:41:35+00:00
+文本: #OpenAI#ChatGPT如何得到一个合理的美国免税州（免税州列表请 Google）地址？虽然貌似随便填一个免税州地址即可，但是频道主本人被卡过地址（IP、卡号不变，就是地址）。后来成功的地址生成器 →这个。
+***
+
+***
+消息ID: 7
+日期: 2023-04-19T08:26:45+00:00
+文本: #OpenAI#ChatGPT如何尽最大可能避免支付过程中被拒绝？OpenAI 支持地区的干净 IP（最重要）+ OpenAI 支持地区的银行卡 + 合理的地址。有条件的情况下，最好三者相符。这里是 OpenAI官方给出的支持地区列表。这里的「干净 IP」可以是：1. 原生的动态住宅 IPv6（最可靠）2. Cloudflare WARP 分配的 IPv6（最实惠）
+***
+
+***
+消息ID: 6
+日期: 2023-04-19T08:09:15+00:00
+文本: #OpenAI#ChatGPT我没有非大陆和港区银行卡，如何支付 OpenAI API 和 ChatGPT Plus？API对于没有护照的人，目前可用的方案就是虚拟货币（如何购买 USDT/USDC请 Google）充值的虚拟卡。提示：创建虚拟卡之前，有官方中文客服的尽可能问一下客服哪些卡段目前是可以被 OpenAI 接受的，避免浪费开卡费。对于有护照的人，可以尝试申请支持护照开户的境外银行（自行搜索教程）。ChatGPT Plus除了上述方案外，还支持使用 App Store 和 Play Store 内购订阅。
+***
+
+***
+消息ID: 5
+日期: 2023-04-19T08:03:15+00:00
+文本: #OpenAIOpenAI 的 API 速度慢怎么办？目前虽没有官方资料明确说明，但是根据多位网友的验证，未绑定有效支付方式的账号 API 可能会被限速。该限制可能是暂时性的。解决方法：绑定一个有效的支付方式。
+***
+
+***
+消息ID: 4
+日期: 2023-04-19T08:00:04+00:00
+文本: Messages in this channel will no longer be automatically deleted
+***
+
+***
+消息ID: 2
+日期: 2023-04-19T07:58:03+00:00
+文本: Messages in this channel will be automatically deleted after 1 day
