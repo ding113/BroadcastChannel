@@ -1,0 +1,8 @@
+channels: [landiansub]
+delimiter: '---'
+max_empty_pages: 3
+max_retries: 3
+output_format: markdown
+retry_delay: 2
+start_ids: {}
+timeout: 10
