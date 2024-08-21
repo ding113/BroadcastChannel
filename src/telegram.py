@@ -73,8 +73,8 @@ class MarkdownOutputProcessor(OutputProcessor):
                 mdfile.write(f"## Message ID: {post.message_id}\n\n")
                 mdfile.write(f"**Date:** {post.date}\n\n")
                 mdfile.write(f"**Text:**\n\n{post.text}\n\n")
-                if post.photo_url:
-                    mdfile.write(f"**Photo:** ![Photo]({post.photo_url})\n\n")
+                # if post.photo_url:
+                #    mdfile.write(f"**Photo:** ![Photo]({post.photo_url})\n\n")
                 mdfile.write("---\n\n")
 
 class PDFOutputProcessor(OutputProcessor):

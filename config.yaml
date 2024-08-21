@@ -1,4 +1,4 @@
-channels: [landiansub]
+channels: [landiansub, xhqcankao, zaihuanews, NewlearnerChannel, laoyutai]
 delimiter: '---'
 max_empty_pages: 3
 max_retries: 3
