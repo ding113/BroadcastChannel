@@ -11,13 +11,13 @@ import os
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 class TelegramChannelScraper:
-    def __init__(self, channel_name):
+    def __init__(self, channel_name, start_id=None):
         self.channel_name = channel_name
         self.base_url = f"https://t.me/s/{channel_name}"
         self.session = requests.Session()
         self.txt_filename = f"{channel_name}_posts.txt"
         self.posts = {}
-        self.oldest_id = None
+        self.oldest_id = start_id
         self.newest_id = None
         self.empty_page_count = 0
         self.max_empty_pages = 3  # 允许连续空页面的最大数量
@@ -128,11 +128,11 @@ class TelegramChannelScraper:
         sorted_posts = sorted(self.posts.values(), key=lambda x: int(x['message_id']), reverse=True)
         with open(self.txt_filename, 'w', encoding='utf-8') as txtfile:
             for post in sorted_posts:
-                txtfile.write(f"消息ID: {post.get('message_id', 'N/A')}\n")
+                txtfile.write(f"ID: {post.get('message_id', 'N/A')}\n")
                 txtfile.write(f"日期: {post.get('date', 'N/A')}\n")
                 txtfile.write(f"文本: {post.get('text', 'N/A')}\n")
                 if 'photo_url' in post and post['photo_url']:
-                    txtfile.write(f"图片URL: {post['photo_url']}\n")
+                #    txtfile.write(f"图片URL: {post['photo_url']}\n")
                 txtfile.write('***\n\n')
 
     def scrape_channel(self):
@@ -196,7 +196,8 @@ class TelegramChannelScraper:
 
 if __name__ == "__main__":
     channel_name = input("请输入Telegram频道名称 (不包含@): ")
-    scraper = TelegramChannelScraper(channel_name)
+    start_id = input("请输入起始消息ID (留空从最新开始): ") or None
+    scraper = TelegramChannelScraper(channel_name, start_id)
     try:
         scraper.scrape_channel()
     except KeyboardInterrupt:
